@@ -32,6 +32,7 @@
   "1221": "The invitation code has already been used",
   "1222": "Please bind the wallet address first",
   "1223": "Account withdrawal is frozen, please contact customer service",
+  "1224": "Account has reached maximum level",
   "1301": "Book does not exist",
   "1302": "There is no such book in the current account, please buy/rent first",
   "1401": "NFT does not exist",
@@ -108,5 +109,5 @@
   "1704": "The account's stamina is insufficient",
   "1800": "Data does not exist",
   "1801": "Please try again later"
-  }
+}
 }
