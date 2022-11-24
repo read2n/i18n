@@ -265,5 +265,6 @@
   "titlePreviousTaskNotEnough": "您的能量不足以繼續上次任務，要結束上次任務嗎？",
   "titleReadInactive": "如果您在同一頁面停留過長，您的能量將被消耗並且無法獲得收益",
   "titleHasPreviousReadTask": "您有一個進行中的任務，如果您要閱讀這本書，上一閱讀任務將被結算",
-  "titleUpgradeFail": "對不起，合成失敗"
+  "titleUpgradeFail": "對不起，合成失敗",
+  "titleInTheRent": "出租中"
 }

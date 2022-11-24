@@ -263,5 +263,6 @@
   "titlePreviousTaskNotEnough": "The energy you have is not enough to continue previous task. Do you want to stop previous task?",
   "titleReadInactive": "If you stay too long on the current page, your energy would be deducted and no further income would be received if you continue the stay.",
   "titleHasPreviousReadTask": "You have a Read2N Reading in progress, and if you need to read this book, the Read2N Reading will be automatically billed.",
-  "titleUpgradeFail": "Sorry, this upgrade failed"
+  "titleUpgradeFail": "Sorry, this upgrade failed",
+  "titleInTheRent": "In the rent"
 }
