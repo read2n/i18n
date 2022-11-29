@@ -266,5 +266,6 @@
   "titleReadInactive": "如果您在同一页面停留过长，您的能量将被消耗并且无法获得收益",
   "titleHasPreviousReadTask": "您有一个进行中的任务，如果您要阅读这本书，上一阅读任务将被结算",
   "titleUpgradeFail": "对不起，合成失败",
-  "titleInTheRent": "出租中"
+  "titleInTheRent": "出租中",
+  "titleSelectAvatar": "选择头像"
 }
