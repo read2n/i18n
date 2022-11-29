@@ -26,13 +26,13 @@
   "sample": "示例",
   "homeRefresh": "後刷新",
   "refillIn": "充能倒計時",
-  "qualityCommon": "普通",
-  "qualityUncommon": "特別",
-  "qualityRare": "稀有",
-  "qualityEpic": "史詩",
-  "qualityLegendary": "傳奇",
-  "resilience": "耐久度",
-  "no": "編號",
+  "qualityCommon": "Common",
+  "qualityUncommon": "Uncommon",
+  "qualityRare": "Rare",
+  "qualityEpic": "Epic",
+  "qualityLegendary": "Legendary",
+  "resilience": "Resilience",
+  "no": "No",
   "totalNfts": "共{count}個NFT",
   "@totalNfts": {
     "placeholders": {
@@ -62,7 +62,7 @@
   "mallLease": "出租",
   "mallSell": "出售",
   "mallRemove": "下架",
-  "nftCountStat": "共{total}個NFT, 已Mint{mint}個",
+  "nftCountStat": "總計{total} Mint{mint}",
   "@nftCountStat": {
     "placeholders": {
       "total": {
@@ -141,7 +141,7 @@
       }
     }
   },
-  "bonusResilience": "額外耐久度",
+  "bonusResilience": "提升Resilience",
   "maximumLeasePeriod": "最大租借週期",
   "leasePrice": "出租價格",
   "rentTime": "租借時間",
