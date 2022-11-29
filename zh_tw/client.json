@@ -267,5 +267,9 @@
   "titleHasPreviousReadTask": "您有一個進行中的任務，如果您要閱讀這本書，上一閱讀任務將被結算",
   "titleUpgradeFail": "對不起，合成失敗",
   "titleInTheRent": "出租中",
-  "titleSelectAvatar": "選擇頭像"
+  "titleSelectAvatar": "選擇頭像",
+  "buyBook": "購買書籍",
+  "buyBox": "購買書盒",
+  "buyCover": "購買書皮",
+  "buyScroll": "購買捲軸"
 }

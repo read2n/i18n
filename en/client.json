@@ -265,5 +265,9 @@
   "titleHasPreviousReadTask": "You have a Read2N Reading in progress, and if you need to read this book, the Read2N Reading will be automatically billed.",
   "titleUpgradeFail": "Sorry, this upgrade failed",
   "titleInTheRent": "In the rent",
-  "titleSelectAvatar": "Select Avatar"
+  "titleSelectAvatar": "Select Avatar",
+  "buyBook": "Buy Book",
+  "buyBox": "Buy Box",
+  "buyCover": "Buy Cover",
+  "buyScroll": "Buy Book"
 }
