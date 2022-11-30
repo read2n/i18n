@@ -273,5 +273,22 @@
   "buyCover": "购买书皮",
   "buyScroll": "购买卷轴",
   "rentBook": "租借书籍",
-  "toastContentCopied": "内容已复制到剪贴板"
+  "toastContentCopied": "内容已复制到剪贴板",
+  "rules": "规则",
+  "noInvitationAvailable": "无可用邀请码",
+  "noInvitation": "无邀请",
+  "inviteFriends": "邀请好友",
+  "getRewards": "获得奖励",
+  "withdrawalOfCurrency": "提取现金",
+  "myInvitation": "我的邀请",
+  "friendInvitation": "好友邀请",
+  "campaignRules": "活动规则",
+  "profit": "收益",
+  "detail": "明细",
+  "today": "今日",
+  "allTime": "累计",
+  "savePhoto": "保存图片",
+  "copyCode": "复制激活码",
+  "transactionProfit": "交易收益",
+  "rentalProfit": "租赁收益"
 }

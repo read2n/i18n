@@ -271,5 +271,22 @@
   "buyCover": "Buy Cover",
   "buyScroll": "Buy Scroll",
   "rentBook": "Rent Book",
-  "toastContentCopied": "The contents have been copied to the clipboard"
+  "toastContentCopied": "The contents have been copied to the clipboard",
+  "rules": "Rules",
+  "noInvitationAvailable": "No invitation code is available",
+  "noInvitation": "No invitation",
+  "inviteFriends": "Invite friends",
+  "getRewards": "Get rewards",
+  "withdrawalOfCurrency": "Withdrawal of currency",
+  "myInvitation": "My invitation",
+  "friendInvitation": "Friend invitation",
+  "campaignRules": "Campaign Rules",
+  "profit": "Profit",
+  "detail": "Detail",
+  "today": "Today",
+  "allTime": "All",
+  "savePhoto": "Save Photo",
+  "copyCode": "Copy Code",
+  "transactionProfit": "Transaction profit",
+  "rentalProfit": "Rental profit"
 }

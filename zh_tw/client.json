@@ -273,5 +273,22 @@
   "buyCover": "購買書皮",
   "buyScroll": "購買捲軸",
   "rentBook": "租借書籍",
-  "toastContentCopied": "內容已復製到剪貼板"
+  "toastContentCopied": "內容已復製到剪貼板",
+  "rules": "規則",
+  "noInvitationAvailable": "無可用邀請碼",
+  "noInvitation": "無邀請",
+  "inviteFriends": "邀請好友",
+  "getRewards": "獲得獎勵",
+  "withdrawalOfCurrency": "提取現金",
+  "myInvitation": "我的邀請",
+  "friendInvitation": "好友邀請",
+  "campaignRules": "活動規則",
+  "profit": "收益",
+  "detail": "明細",
+  "today": "今日",
+  "allTime": "累計",
+  "savePhoto": "保存圖片",
+  "copyCode": "複製激活碼",
+  "transactionProfit": "交易收益",
+  "rentalProfit": "租賃收益"
 }
