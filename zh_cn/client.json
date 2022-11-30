@@ -272,5 +272,6 @@
   "buyBox": "购买书盒",
   "buyCover": "购买书皮",
   "buyScroll": "购买卷轴",
-  "rentBook": "租借书籍"
+  "rentBook": "租借书籍",
+  "toastContentCopied": "内容已复制到剪贴板"
 }

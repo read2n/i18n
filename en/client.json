@@ -270,5 +270,6 @@
   "buyBox": "Buy Box",
   "buyCover": "Buy Cover",
   "buyScroll": "Buy Scroll",
-  "rentBook": "Rent Book"
+  "rentBook": "Rent Book",
+  "toastContentCopied": "The contents have been copied to the clipboard"
 }
