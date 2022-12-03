@@ -290,5 +290,20 @@
   "savePhoto": "保存图片",
   "copyCode": "复制激活码",
   "transactionProfit": "交易收益",
-  "rentalProfit": "租赁收益"
+  "rentalProfit": "租赁收益",
+  "rewards": "奖励",
+  "congratulations": "恭喜",
+  "spendEnergy": "消耗能量",
+  "wordCount": "字数",
+  "endTime": "结束时间",
+  "friendInvitesFriends": "{who}邀请的好友",
+  "@friendInvitesFriends": {
+    "placeholders": {
+      "who": {
+        "type": "String"
+      }
+    }
+  },
+  "person": "人",
+  "people": "人"
 }

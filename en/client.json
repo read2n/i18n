@@ -288,5 +288,20 @@
   "savePhoto": "Save Photo",
   "copyCode": "Copy Code",
   "transactionProfit": "Transaction profit",
-  "rentalProfit": "Rental profit"
+  "rentalProfit": "Rental profit",
+  "rewards": "Rewards",
+  "congratulations": "Congratulations",
+  "spendEnergy": "Spend energy",
+  "wordCount": "Words",
+  "endTime": "End time",
+  "friendInvitesFriends": "{who} invited friends",
+  "@friendInvitesFriends": {
+    "placeholders": {
+      "who": {
+        "type": "String"
+      }
+    }
+  },
+  "person": "person",
+  "people": "people"
 }
