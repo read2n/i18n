@@ -315,5 +315,7 @@
   "contentActivityOther": "If a user is found to have violated the rules (obtaining rights and interests through improper means, making profits with all the rights and interests obtained, cheating in receiving, false transactions, improper use, breach of good faith, etc.), the platform will punish the user according to the severity of the case and relevant provisions, including but not limited to disqualification of the user's invitation, withdrawal of the award already issued, and legal accountability. Read2n can make changes and adjustments to the rules of the activity according to the actual reporting of the activity. The relevant changes and adjustments will be published on the activity page and will take effect according to law after being published. If you have any questions, please consult read2n Twitter",
   "directRebate": "Direct invitation rebate",
   "friendRebate": "Friend invitation rebate",
-  "moreActivationCode": "More Activation Codes >>"
+  "moreActivationCode": "More Activation Codes >>",
+  "tokenLockedPeriod": "!It is currently the lock -up period and cannot be withdrawn",
+  "events": "Events"
 }
