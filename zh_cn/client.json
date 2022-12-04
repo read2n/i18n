@@ -319,5 +319,10 @@
   "friendRebate": "他人邀请返佣",
   "moreActivationCode": "更多激活码>>",
   "tokenLockedPeriod": "!当前为锁仓期，无法提现",
-  "events": "活动"
+  "events": "活动",
+  "trialBookNftSelection": "体验图书NFT选择",
+  "titleFreeNft": "您的新人活动即将过期",
+  "timeHourShort": "时",
+  "timeMinShort": "分",
+  "timeSecShort": "秒"
 }

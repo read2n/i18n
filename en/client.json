@@ -317,5 +317,10 @@
   "friendRebate": "Friend invitation rebate",
   "moreActivationCode": "More Activation Codes >>",
   "tokenLockedPeriod": "!It is currently the lock -up period and cannot be withdrawn",
-  "events": "Events"
+  "events": "Events",
+  "trialBookNftSelection": "Trial Book NFT Selection",
+  "titleFreeNft": "Your newbie campaign will expire soon",
+  "timeHourShort": "H",
+  "timeMinShort": "Min",
+  "timeSecShort": "s"
 }
