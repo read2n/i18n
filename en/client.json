@@ -322,5 +322,8 @@
   "titleFreeNft": "Your newbie campaign will expire soon",
   "timeHourShort": "H",
   "timeMinShort": "Min",
-  "timeSecShort": "s"
+  "timeSecShort": "s",
+  "time_day": "Day",
+  "time_days": "Days",
+  "save_image": "Save Picture"
 }
