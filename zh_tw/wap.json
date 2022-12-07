@@ -1,16 +1,16 @@
 {
   "route": {
-    "Events": "活動",
-    "StepN lottery": "StepN抽獎活動",
-    "WhiteList Lottery": "白名單抽獎活動",
-    "WcmLottery": "領取WCM活動"
+    "events": "活動",
+    "stepN": "StepN抽獎活動",
+    "whiteList": "白名單抽獎活動",
+    "wcmLottery": "領取WCM活動"
   },
   "events": {},
   "stepn": {
     "title": "StepN創世鞋用戶",
     "tip": "領取創世NFT",
     "btnText": "開始抽獎",
-    "Book": "書籍",
+    "book": "書籍",
     "noSecectBook": "請選擇參加抽獎的圖書。",
     "failText": "這次沒有抽中NFT,您可以等待下一次新書的發布。",
     "failTitle": "沒有抽中",

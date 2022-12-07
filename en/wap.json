@@ -1,16 +1,16 @@
 {
   "route": {
-    "Events": "Events",
-    "StepN lottery": "StepN lottery",
-    "WhiteList Lottery": "WhiteList Lottery",
-    "WcmLottery": "WcmLottery"
+    "events": "Events",
+    "stepN": "StepN lottery",
+    "whiteList": "WhiteList Lottery",
+    "wcmLottery": "Wcm Lottery"
   },
   "events": {},
   "stepn": {
     "title": "STEPN",
     "tip": "Genesis NFT",
     "btnText": "Start Raffle",
-    "Book": "Book",
+    "book": "Book",
     "noSecectBook": "Please select the book for the raffle.",
     "failText": "The NFT was not drawn this time, you can wait for the new book to be released next time.",
     "failTitle": "Didn't win",
@@ -26,7 +26,7 @@
     "title": "WhiteList",
     "tip": "Genesis NFT",
     "btnText": "Start Raffle",
-    "Book": "Book",
+    "book": "Book",
     "noSecectBook": "Please select the book for the raffle.",
     "failText": "The NFT was not drawn this time, you can wait for the new book to be released next time.",
     "failTitle": "Didn't win",
