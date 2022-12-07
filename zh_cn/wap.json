@@ -2,8 +2,8 @@
   "route": {
     "events": "活动",
     "stepn": "StepN抽奖活动",
-    "whitelist": "白名单抽奖活动",
-    "WcmLottery": "领取WCM活动"
+    "whiteList": "白名单抽奖活动",
+    "wcmLottery": "领取WCM活动"
   },
   "events": {
     "notstart": "活动尚未开始"
@@ -12,7 +12,7 @@
     "title": "StepN创世鞋用户",
     "tip": "领取创世NFT",
     "btnText": "开始抽奖",
-    "Book": "书籍",
+    "book": "书籍",
     "noSecectBook": "请选择参加抽奖的图书。",
     "failText": "这次没有抽中NFT,您可以等待下一次新书的发布。",
     "failTitle": "没有抽中",
@@ -27,7 +27,8 @@
   "whitelist": {
     "title": "白名单用户",
     "tip": "领取创世NFT",
-    "Book": "书籍",
+    "btnText": "开始抽奖",
+    "book": "书籍",
     "noSecectBook": "请选择参加抽奖的图书。",
     "failText": "这次没有抽中NFT,您可以等待下一次新书的发布。",
     "failTitle": "没有抽中",
