@@ -8,13 +8,13 @@
   "events": {},
   "stepn": {
     "title": "StepN创世鞋用户",
-    "tip": "领取创世NFT",
+    "tip": "创世NFT",
     "eventdesc": "当前活动剩余参加次数：",
     "rule": ""
   },
   "whitelist": {
     "title": "白名单用户",
-    "tip": "领取创世NFT",
+    "tip": "创世NFT",
     "eventdesc": "当前活动剩余参加次数：",
     "rule": ""
   },
