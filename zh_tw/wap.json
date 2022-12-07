@@ -8,19 +8,44 @@
   "events": {},
   "stepn": {
     "title": "StepN創世鞋用戶",
-    "tip": "創世NFT",
-    "eventdesc": "當前活動剩余參加次數:",
+    "tip": "領取創世NFT",
+    "btnText": "開始抽獎",
+    "Book": "書籍",
+    "noSecectBook": "請選擇參加抽獎的圖書。",
+    "failText": "這次沒有抽中NFT,您可以等待下一次新書的發布。",
+    "failTitle": "沒有抽中",
+    "alreadyText": "抱歉您已經參加過本次活動",
+    "noNft": "對不起,這本書的所有nft已經沒有了。",
+    "noAccess": "對不起，您不是白名單用戶，不能參加本次活動的抽獎。",
+    "noAccessTitle": "非活動用戶",
+    "successTitle": "恭喜抽中NFT",
+    "eventDesc": "當前活動剩余參加次數：",
     "rule": ""
   },
   "whitelist": {
     "title": "白名單用戶",
-    "tip": "創世NFT",
-    "eventdesc": "當前活動剩余參加次數:",
+    "tip": "領取創世NFT",
+    "btnText": "開始抽獎",
+    "Book": "書籍",
+    "noSecectBook": "請選擇參加抽獎的圖書。",
+    "failText": "這次沒有抽中NFT,您可以等待下一次新書的發布。",
+    "failTitle": "沒有抽中",
+    "alreadyText": "抱歉您已經參加過本次活動",
+    "noNft": "對不起,這本書的所有nft已經沒有了。",
+    "noAccess": "對不起，您不是白名單用戶，不能參加本次活動的抽獎。",
+    "noAccessTitle": "非活動用戶",
+    "successTitle": "恭喜抽中NFT",
+    "eventDesc": "當前活動剩余參加次數：",
     "rule": ""
   },
   "wcmlottery": {
     "title": "幸運用戶",
     "tip": "領取WCM",
+    "btnText": "領取",
+    "eventDesc": "可以领取WCM数量",
     "rule": ""
+  },
+  "confim": {
+    "confim": "確定"
   }
 }
