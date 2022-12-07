@@ -1,1 +1,26 @@
-{}
+{
+  "route": {
+    "Events": "Events",
+    "StepN lottery": "StepN lottery",
+    "WhiteList Lottery": "WhiteList Lottery",
+    "WcmLottery": "WcmLottery"
+  },
+  "events": {},
+  "stepn": {
+    "title": "STEPN",
+    "tip": "Genesis NFT",
+    "eventdesc": "Number of remaining lottery draws:",
+    "rule": ""
+  },
+  "whitelist": {
+    "title": "WhiteList",
+    "tip": "Genesis NFT",
+    "rule": "",
+    "eventdesc": "Number of remaining lottery draws:"
+  },
+  "wcmlottery": {
+    "title": "Lucky User",
+    "tip": "WCM",
+    "rule": ""
+  }
+}

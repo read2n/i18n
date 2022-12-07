@@ -1,1 +1,26 @@
-{}
+{
+  "route": {
+    "Events": "活动",
+    "StepN lottery": "StepN抽奖活动",
+    "WhiteList Lottery": "白名单抽奖活动",
+    "WcmLottery": "领取WCM活动"
+  },
+  "events": {},
+  "stepn": {
+    "title": "StepN创世鞋用户",
+    "tip": "领取创世NFT",
+    "eventdesc": "当前活动剩余参加次数：",
+    "rule": ""
+  },
+  "whitelist": {
+    "title": "白名单用户",
+    "tip": "领取创世NFT",
+    "eventdesc": "当前活动剩余参加次数：",
+    "rule": ""
+  },
+  "wcmlottery": {
+    "title": "幸运用户",
+    "tip": "领取WCM",
+    "rule": ""
+  }
+}
