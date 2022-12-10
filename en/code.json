@@ -111,5 +111,11 @@
   "1703": "The request is too frequent, please wait for 30s",
   "1704": "The account's stamina is insufficient",
   "1800": "Data does not exist",
-  "1801": "Please try again later"
+  "1801": "Please try again later",
+  "2000": "The event does not exist",
+  "2001": "The event type is error",
+  "2002": "You had claimed or no more to claim",
+  "2003": "You have no authority",
+  "2004": "No NFT to claim",
+  "2005": "Lottery failed"
 }

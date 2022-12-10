@@ -1,1 +1,48 @@
-{}
+{
+  "route": {
+    "events": "Events",
+    "stepN": "StepN lottery",
+    "whiteList": "WhiteList Lottery",
+    "wcmLottery": "Wcm Lottery"
+  },
+  "events": {},
+  "stepn": {
+    "title": "STEPN",
+    "tip": "Genesis NFT",
+    "btnText": "Start Raffle",
+    "book": "Book",
+    "noSecectBook": "Please select the book for the raffle.",
+    "failText": "The NFT was not drawn this time, you can wait for the new book to be released next time.",
+    "failTitle": "Didn't win",
+    "alreadyText": "Sorry, you have already participated in this event.",
+    "noNft": "Sorry, all NFTs for this book have been released.",
+    "noAccess": "Sorry, you are not a whitelist user and cannot participate in the lucky draw for this event.",
+    "noAccessTitle": "Not Eligible",
+    "successTitle": "Win the new NFT",
+    "eventdesc": "Number of remaining lottery draws:",
+    "rule": ""
+  },
+  "whitelist": {
+    "title": "WhiteList",
+    "tip": "Genesis NFT",
+    "btnText": "Start Raffle",
+    "book": "Book",
+    "noSecectBook": "Please select the book for the raffle.",
+    "failText": "The NFT was not drawn this time, you can wait for the new book to be released next time.",
+    "failTitle": "Didn't win",
+    "alreadyText": "Sorry, you have already participated in this event.",
+    "noNft": "Sorry, all NFTs for this book have been released.",
+    "noAccess": "Sorry, you are not a whitelist user and cannot participate in the lucky draw for this event.",
+    "noAccessTitle": "Not Eligible",
+    "successTitle": "Win the new NFT",
+    "rule": "",
+    "eventdesc": "Number of remaining lottery draws:"
+  },
+  "wcmlottery": {
+    "title": "Lucky User",
+    "tip": "WCM",
+    "btnText": "Receive",
+    "countText": "Claim wcm count : ",
+    "rule": ""
+  }
+}

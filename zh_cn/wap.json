@@ -1,1 +1,53 @@
-{}
+{
+  "route": {
+    "events": "活动",
+    "stepn": "StepN抽奖活动",
+    "whiteList": "白名单抽奖活动",
+    "wcmLottery": "领取WCM活动"
+  },
+  "events": {
+    "notstart": "活动尚未开始"
+  },
+  "stepn": {
+    "title": "StepN创世鞋用户",
+    "tip": "领取创世NFT",
+    "btnText": "开始抽奖",
+    "book": "书籍",
+    "noSecectBook": "请选择参加抽奖的图书。",
+    "failText": "这次没有抽中NFT,您可以等待下一次新书的发布。",
+    "failTitle": "没有抽中",
+    "alreadyText": "抱歉您已经参加过本次活动",
+    "noNft": "对不起,这本书的所有nft已经没有了。",
+    "noAccess": "对不起，您不是白名单用户，不能参加本次活动的抽奖。",
+    "noAccessTitle": "非活动用户",
+    "successTitle": "恭喜抽中NFT",
+    "eventDesc": "当前活动剩余参加次数：",
+    "rule": ""
+  },
+  "whitelist": {
+    "title": "白名单用户",
+    "tip": "领取创世NFT",
+    "btnText": "开始抽奖",
+    "book": "书籍",
+    "noSecectBook": "请选择参加抽奖的图书。",
+    "failText": "这次没有抽中NFT,您可以等待下一次新书的发布。",
+    "failTitle": "没有抽中",
+    "alreadyText": "抱歉您已经参加过本次活动",
+    "noNft": "对不起,这本书的所有nft已经没有了。",
+    "noAccess": "对不起，您不是白名单用户，不能参加本次活动的抽奖。",
+    "noAccessTitle": "非活动用户",
+    "successTitle": "恭喜抽中NFT",
+    "eventDesc": "当前活动剩余参加次数:",
+    "rule": ""
+  },
+  "wcmlottery": {
+    "title": "幸运用户",
+    "tip": "领取WCM",
+    "btnText": "领取",
+    "eventDesc": "可以领取WCM数量:",
+    "rule": ""
+  },
+  "confim": {
+    "confim": "确定"
+  }
+}
