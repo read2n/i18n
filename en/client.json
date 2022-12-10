@@ -23,6 +23,26 @@
       }
     }
   },
+  "@rentStat": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      },
+      "mint": {
+        "type": "String"
+      }
+    }
+  },
+  "@sellStat": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      },
+      "mint": {
+        "type": "String"
+      }
+    }
+  },
   "@totalNfts": {
     "placeholders": {
       "count": {
@@ -170,7 +190,7 @@
   "newScroll": "New Scroll",
   "newScrollDebris": "New Scroll Debris",
   "nextChapter": "Next",
-  "nftCountStat": "{total} NFTs in total, {mint} minted",
+  "nftCountStat": "{total} NFTs, {mint} minted",
   "nickname": "Nickname",
   "no": "No",
   "noCoverFound": "No Cover found",
@@ -203,9 +223,11 @@
   "readMode": "Read mode",
   "readersAreRenting": " Readers are renting",
   "refillIn": "Refill in",
+  "relatedCollection": "Related collection",
   "remaining": "remaining",
   "rent": "rent",
   "rentBook": "Rent Book",
+  "rentStat": "{count} renting, {mint} minted",
   "rentTime": "Rent Time",
   "rentalProfit": "Rental profit",
   "resilience": "Resilience",
@@ -222,6 +244,7 @@
   "savePhoto": "Save Photo",
   "scroll": "Scroll",
   "seed": "Seed",
+  "sellStat": "{count} selling, {mint} minted",
   "sendCode": "Send Code",
   "setting": "Setting",
   "sold": "sold",

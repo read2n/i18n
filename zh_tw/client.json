@@ -23,6 +23,26 @@
       }
     }
   },
+  "@rentStat": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      },
+      "mint": {
+        "type": "String"
+      }
+    }
+  },
+  "@sellStat": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      },
+      "mint": {
+        "type": "String"
+      }
+    }
+  },
   "@totalNfts": {
     "placeholders": {
       "count": {
@@ -192,20 +212,22 @@
   "profit": "收益",
   "purchases": "購買",
   "quality": "品質",
-  "qualityCommon": "Common",
-  "qualityEpic": "Epic",
-  "qualityLegendary": "Legendary",
-  "qualityRare": "Rare",
-  "qualityUncommon": "Uncommon",
+  "qualityCommon": "普通",
+  "qualityEpic": "史詩",
+  "qualityLegendary": "傳說",
+  "qualityRare": "罕見",
+  "qualityUncommon": "強化",
   "rarity": "稀有度",
   "read": "閱讀",
   "read2n": "Read2N",
   "readMode": "閱讀模式",
   "readersAreRenting": "人正在租借",
   "refillIn": "充能倒計時",
+  "relatedCollection": "關聯集合",
   "remaining": "剩餘",
   "rent": "租借",
   "rentBook": "租借書籍",
+  "rentStat": "{count}出租中，已Mint{mint}",
   "rentTime": "租借時間",
   "rentalProfit": "租賃收益",
   "resilience": "Resilience",
@@ -222,6 +244,7 @@
   "savePhoto": "保存圖片",
   "scroll": "捲軸",
   "seed": "創世",
+  "sellStat": "{count}出售中，已Mint{mint}",
   "sendCode": "發送驗證碼",
   "setting": "設置",
   "sold": "出售",
