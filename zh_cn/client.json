@@ -23,6 +23,26 @@
       }
     }
   },
+  "@rentStat": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      },
+      "mint": {
+        "type": "String"
+      }
+    }
+  },
+  "@sellStat": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      },
+      "mint": {
+        "type": "String"
+      }
+    }
+  },
   "@totalNfts": {
     "placeholders": {
       "count": {
@@ -46,6 +66,7 @@
   "allTime": "累计",
   "appVersion": "App版本",
   "availableTotal": "可用/总共",
+  "balanceInsufficientDeposit": "余额不足，请充值",
   "bonus": "加成",
   "bonusResilience": "提升Resilience",
   "book": "书",
@@ -65,6 +86,7 @@
   "buyBox": "购买书盒",
   "buyCover": "购买书皮",
   "buyNft": "购买NFT",
+  "buyNow": "立即购买",
   "buyScroll": "购买卷轴",
   "campaignRules": "活动规则",
   "cancel": "取消",
@@ -88,6 +110,7 @@
   "countDown": "倒计时",
   "cover": "书皮",
   "coverRemove": "拆卸",
+  "darkMode": "深色模式",
   "debrisType": "碎片等级",
   "detail": "明细",
   "directRebate": "直接邀请返佣",
@@ -192,20 +215,23 @@
   "profit": "收益",
   "purchases": "购买",
   "quality": "品质",
-  "qualityCommon": "Common",
-  "qualityEpic": "Epic",
-  "qualityLegendary": "Legendary",
-  "qualityRare": "Rare",
-  "qualityUncommon": "Uncommon",
+  "qualityCommon": "普通",
+  "qualityEpic": "史诗",
+  "qualityLegendary": "传说",
+  "qualityRare": "罕见",
+  "qualityUncommon": "强化",
   "rarity": "稀有度",
   "read": "阅读",
   "read2n": "Read2N",
   "readMode": "阅读模式",
   "readersAreRenting": "人正在租借",
   "refillIn": "充能倒计时",
+  "relatedCollection": "关联集合",
   "remaining": "剩余",
   "rent": "租借",
   "rentBook": "租借书籍",
+  "rentNow": "立即租借",
+  "rentStat": "{count}出租中，已Mint{mint}",
   "rentTime": "租借时间",
   "rentalProfit": "租赁收益",
   "resilience": "Resilience",
@@ -222,6 +248,7 @@
   "savePhoto": "保存图片",
   "scroll": "卷轴",
   "seed": "创世",
+  "sellStat": "{count}出售中，已Mint{mint}",
   "sendCode": "发送验证码",
   "setting": "设置",
   "sold": "出售",
@@ -310,6 +337,7 @@
   "today": "今日",
   "tokenLockedPeriod": "!当前为锁仓期，无法提现",
   "totalNfts": "共{count}个NFT",
+  "totalPrice": "合计",
   "trade": "交易",
   "transactionProfit": "交易收益",
   "trialBookNftSelection": "体验图书NFT选择",

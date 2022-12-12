@@ -23,6 +23,26 @@
       }
     }
   },
+  "@rentStat": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      },
+      "mint": {
+        "type": "String"
+      }
+    }
+  },
+  "@sellStat": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      },
+      "mint": {
+        "type": "String"
+      }
+    }
+  },
   "@totalNfts": {
     "placeholders": {
       "count": {
@@ -46,6 +66,7 @@
   "allTime": "All",
   "appVersion": "App version",
   "availableTotal": "Available/Total",
+  "balanceInsufficientDeposit": "Balance insufficient, please deposit",
   "bonus": "Bonus",
   "bonusResilience": "Bonus Resilience",
   "book": "Book",
@@ -65,6 +86,7 @@
   "buyBox": "Buy Box",
   "buyCover": "Buy Cover",
   "buyNft": "Buy NFT",
+  "buyNow": "Buy Now",
   "buyScroll": "Buy Scroll",
   "campaignRules": "Campaign Rules",
   "cancel": "Cancel",
@@ -88,6 +110,7 @@
   "countDown": "Countdown",
   "cover": "Cover",
   "coverRemove": "Remove",
+  "darkMode": "Dark Mode",
   "debrisType": "debrisType",
   "detail": "Detail",
   "directRebate": "Direct invitation rebate",
@@ -170,7 +193,7 @@
   "newScroll": "New Scroll",
   "newScrollDebris": "New Scroll Debris",
   "nextChapter": "Next",
-  "nftCountStat": "{total} NFTs in total, {mint} minted",
+  "nftCountStat": "{total} NFTs, {mint} minted",
   "nickname": "Nickname",
   "no": "No",
   "noCoverFound": "No Cover found",
@@ -203,9 +226,12 @@
   "readMode": "Read mode",
   "readersAreRenting": " Readers are renting",
   "refillIn": "Refill in",
+  "relatedCollection": "Related collection",
   "remaining": "remaining",
   "rent": "rent",
   "rentBook": "Rent Book",
+  "rentNow": "Rent Now",
+  "rentStat": "{count} renting, {mint} minted",
   "rentTime": "Rent Time",
   "rentalProfit": "Rental profit",
   "resilience": "Resilience",
@@ -222,6 +248,7 @@
   "savePhoto": "Save Photo",
   "scroll": "Scroll",
   "seed": "Seed",
+  "sellStat": "{count} selling, {mint} minted",
   "sendCode": "Send Code",
   "setting": "Setting",
   "sold": "sold",
@@ -310,6 +337,7 @@
   "today": "Today",
   "tokenLockedPeriod": "!It is currently the lock -up period and cannot be withdrawn",
   "totalNfts": "{count} NFTs in total",
+  "totalPrice": "total",
   "trade": "trade",
   "transactionProfit": "Transaction profit",
   "trialBookNftSelection": "Trial Book NFT Selection",

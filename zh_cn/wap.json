@@ -3,7 +3,9 @@
     "events": "活动",
     "stepn": "StepN抽奖活动",
     "whiteList": "白名单抽奖活动",
-    "wcmLottery": "领取WCM活动"
+    "wcmLottery": "领取WCM活动",
+    "author": "创作者中心",
+    "earnDetail": "收益详情"
   },
   "events": {
     "notstart": "活动尚未开始"
@@ -46,6 +48,19 @@
     "btnText": "领取",
     "eventDesc": "可以领取WCM数量:",
     "rule": ""
+  },
+  "author": {
+    "mybooks": "我的作品",
+    "todaytip": "今日收益",
+    "totaltip": "累计收益"
+  },
+  "earnDetail": {
+    "timeUnit": "月",
+    "nftOrder": "NFT交易",
+    "nftRent": "NFT租赁",
+    "nftScroll": "Scroll",
+    "nftBox": "Box",
+    "selectDate": "选择年月"
   },
   "confim": {
     "confim": "确定"
