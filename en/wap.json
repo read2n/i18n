@@ -3,7 +3,9 @@
     "events": "Events",
     "stepN": "StepN lottery",
     "whiteList": "WhiteList Lottery",
-    "wcmLottery": "Wcm Lottery"
+    "wcmLottery": "Wcm Lottery",
+    "author": "Creator Center",
+    "earnDetail": "Earnings details"
   },
   "events": {},
   "stepn": {
@@ -44,5 +46,22 @@
     "btnText": "Receive",
     "countText": "Claim wcm count : ",
     "rule": ""
+  },
+  "author": {
+    "mybooks": "My Books",
+    "todaytip": "Today's revenue",
+    "totaltip": "Total revenue"
+  },
+  "earnDetail": {
+    "timeUnit": "month",
+    "nftOrder": "NFT Order",
+    "nftRent": "NFT Rent",
+    "nftScroll": "Book Scroll",
+    "nftBox": "Book Box",
+    "selectDate": "Choice of time"
+  },
+  "confim": {
+    "confim": "confirm",
+    "cancel": "cancel"
   }
 }
