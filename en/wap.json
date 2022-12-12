@@ -56,8 +56,8 @@
     "timeUnit": "month",
     "nftOrder": "NFT Order",
     "nftRent": "NFT Rent",
-    "nftScroll": "Book Scroll",
-    "nftBox": "Book Box",
+    "nftScroll": "Scroll",
+    "nftBox": "Box",
     "selectDate": "Choice of time"
   },
   "confim": {
