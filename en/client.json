@@ -337,6 +337,7 @@
   "today": "Today",
   "tokenLockedPeriod": "!It is currently the lock -up period and cannot be withdrawn",
   "totalNfts": "{count} NFTs in total",
+  "totalPrice": "total",
   "trade": "trade",
   "transactionProfit": "Transaction profit",
   "trialBookNftSelection": "Trial Book NFT Selection",

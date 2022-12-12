@@ -337,6 +337,7 @@
   "today": "今日",
   "tokenLockedPeriod": "!当前为锁仓期，无法提现",
   "totalNfts": "共{count}个NFT",
+  "totalPrice": "合计",
   "trade": "交易",
   "transactionProfit": "交易收益",
   "trialBookNftSelection": "体验图书NFT选择",
