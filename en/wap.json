@@ -63,5 +63,10 @@
   "confim": {
     "confim": "confirm",
     "cancel": "cancel"
+  },
+  "other": {
+    "ruleTip": "Rule of activit",
+    "colTip": "More",
+    "fold": "Fold"
   }
 }

@@ -64,5 +64,10 @@
   },
   "confim": {
     "confim": "确定"
+  },
+  "other": {
+    "ruleTip": "活动规则",
+    "colTip": "查看更多",
+    "fold": "收起"
   }
 }

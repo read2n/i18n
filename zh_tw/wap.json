@@ -63,5 +63,10 @@
   "confim": {
     "confim": "確定",
     "cancel": "取消"
+  },
+  "other": {
+    "ruleTip": "活動規則",
+    "colTip": "查看更多",
+    "fold": "收起"
   }
 }
