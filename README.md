@@ -5,4 +5,4 @@ for test
 
 
 prod 分支
-https://i18n.api.read2n.com/read2n/i18n/prod/README.md
+https://i18n.api.read2n.space/read2n/i18n/prod/README.md
