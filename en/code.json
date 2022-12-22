@@ -34,6 +34,8 @@
   "1223": "Account withdrawal is frozen, please contact customer service",
   "1224": "Account has reached maximum level",
   "1225": "Prohibit withdrawal",
+  "1226": "The wallet address has been bound",
+  "1227": "The wallet address is inconsistent",
   "1301": "Book does not exist",
   "1302": "There is no such book in the current account, please buy/rent first",
   "1401": "NFT does not exist",
