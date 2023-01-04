@@ -5,7 +5,8 @@
     "whiteList": "WhiteList Lottery",
     "wcmLottery": "Wcm Lottery",
     "author": "Creator Center",
-    "earnDetail": "Earnings details"
+    "earnDetail": "Earnings details",
+    "promotions": "Events"
   },
   "events": {},
   "stepn": {
@@ -68,5 +69,34 @@
     "ruleTip": "Event Rules",
     "colTip": "More",
     "fold": "Fold"
+  },
+  "promotions": {
+    "ruleText": "Rule",
+    "eventTitle": "Invite friends open box",
+    "selectTitle": "Select Loot Box",
+    "luckyPrice": "Lucky price",
+    "noBox": "No Loot Box",
+    "refreshText": "Refresh",
+    "inviteRemark": "Invite 5 more friends to help, speed up",
+    "reductionText": "price reduction ",
+    "distanceText": "distance ",
+    "luckText": "lucky price",
+    "nullText": "",
+    "inviteBtnText": "invite friends",
+    "saveText": "Save QR",
+    "copyText": "Copy Link",
+    "qrText": "Scan QR, Help open loot box",
+    "stepsTitle": "Activity steps",
+    "steps1": "Choose a box to participate in event",
+    "steps2": "Invite new users to join the event and get a maximum",
+    "steps3": "Earn rewards",
+    "stepsRemark": "Invite old users to join with the highest discount of 3RCM",
+    "invitationTitle": "My invitation",
+    "tab1": "All",
+    "tab2": "New",
+    "tab3": "Old",
+    "discountUnit": "group bargain（RCM）",
+    "tabNull": "no invitation yet",
+    "expired": "Expired"
   }
 }

@@ -5,7 +5,8 @@
     "whiteList": "白名单抽奖活动",
     "wcmLottery": "领取WCM活动",
     "author": "创作者中心",
-    "earnDetail": "收益详情"
+    "earnDetail": "收益详情",
+    "promotions": "Events"
   },
   "events": {
     "notstart": "活动尚未开始"
@@ -69,5 +70,34 @@
     "ruleTip": "活动规则",
     "colTip": "查看更多",
     "fold": "收起"
+  },
+  "promotions": {
+    "ruleText": "规则",
+    "eventTitle": "邀请好友助力开宝箱",
+    "selectTitle": "选择宝箱",
+    "luckyPrice": "幸运价",
+    "noBox": "暂无宝箱",
+    "refreshText": "后过期",
+    "inviteRemark": "再邀请5个好友帮砍，加速砍成",
+    "reductionText": "已砍",
+    "distanceText": "距离",
+    "luckText": "幸运价",
+    "nullText": "还差",
+    "inviteBtnText": "邀请好友",
+    "saveText": "保存图片",
+    "copyText": "复制链接",
+    "qrText": "扫码下载Read2N,快来帮忙砍一刀",
+    "stepsTitle": "活动步骤",
+    "steps1": "选择参与“砍一刀”活动的宝箱",
+    "steps2": "邀请新用户注册完成“砍一刀”最高获得",
+    "steps3": "助力成功，开启宝箱",
+    "stepsRemark": "备注：邀请老用户“砍一刀”最高获得3RCM",
+    "invitationTitle": "我的邀请",
+    "tab1": "全部",
+    "tab2": "新用户",
+    "tab3": "老用户",
+    "discountUnit": "帮砍金额（RCM）",
+    "tabNull": "暂无邀请",
+    "expired": "已过期"
   }
 }

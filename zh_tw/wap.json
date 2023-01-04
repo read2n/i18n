@@ -5,7 +5,8 @@
     "whiteList": "白名單抽獎活動",
     "wcmLottery": "領取WCM活動",
     "author": "創作者中心",
-    "earnDetail": "收益詳情"
+    "earnDetail": "收益詳情",
+    "promotions": "Events"
   },
   "events": {},
   "stepn": {
@@ -68,5 +69,34 @@
     "ruleTip": "活動規則",
     "colTip": "查看更多",
     "fold": "收起"
+  },
+  "promotions": {
+    "ruleText": "規則",
+    "eventTitle": "邀請好友助力開寶箱",
+    "selectTitle": "選擇寶箱",
+    "luckyPrice": "幸運價",
+    "noBox": "暫無寶箱",
+    "refreshText": "後過期",
+    "inviteRemark": "再邀請5個好友幫砍，加速砍成",
+    "reductionText": "已砍",
+    "distanceText": "距離",
+    "luckText": "幸運價",
+    "nullText": "還差",
+    "inviteBtnText": "邀請好友",
+    "saveText": "保存圖片",
+    "copyText": "復製鏈接",
+    "qrText": "掃碼下載Read2N,快來幫忙砍一刀",
+    "stepsTitle": "活動步驟",
+    "steps1": "選擇參與「砍一刀」活動的寶箱",
+    "steps2": "邀請新用戶註冊完成「砍一刀」最高獲得",
+    "steps3": "助力成功，開啟寶箱",
+    "stepsRemark": "備註：邀請老用戶「砍一刀」最高獲得3RCM",
+    "invitationTitle": "我的邀請",
+    "tab1": "全部",
+    "tab2": "新用戶",
+    "tab3": "老用戶",
+    "discountUnit": "幫砍金額（RCM）",
+    "tabNull": "暫無邀請",
+    "expired": "已過期"
   }
 }
