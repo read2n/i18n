@@ -6,7 +6,8 @@
     "wcmLottery": "领取WCM活动",
     "author": "创作者中心",
     "earnDetail": "收益详情",
-    "promotions": "Events"
+    "promotions": "Events",
+    "rule": "规则"
   },
   "events": {
     "notstart": "活动尚未开始"
