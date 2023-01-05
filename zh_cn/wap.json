@@ -6,7 +6,8 @@
     "wcmLottery": "领取WCM活动",
     "author": "创作者中心",
     "earnDetail": "收益详情",
-    "promotions": "Events"
+    "promotions": "Events",
+    "rule": "规则"
   },
   "events": {
     "notstart": "活动尚未开始"
@@ -89,9 +90,9 @@
     "qrText": "扫码下载Read2N,快来帮忙砍一刀",
     "stepsTitle": "活动步骤",
     "steps1": "选择参与“砍一刀”活动的宝箱",
-    "steps2": "邀请新用户注册完成“砍一刀”最高获得",
+    "steps2": "邀请新用户注册并完成“砍一刀”，获得RCM优惠",
     "steps3": "助力成功，开启宝箱",
-    "stepsRemark": "备注：邀请老用户“砍一刀”最高获得3RCM",
+    "stepsRemark": "备注：详情参考活动规则",
     "invitationTitle": "我的邀请",
     "tab1": "全部",
     "tab2": "新用户",
