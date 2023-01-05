@@ -143,6 +143,7 @@
   "hintEnterPrice": "請輸入價格",
   "hintInputNickname": "請輸入暱稱",
   "hintInputPassword": "請輸入密碼",
+  "hintRepairStrength": "體力值會影響您的RCM收益，請及時修復",
   "hintSelectMaximumLeasePeriod": "請選擇最大租借週期",
   "holdDownToStop": "按住以結束",
   "homeBubbleTips1": "這裡是您的錢包，您可以導入您的錢包來購買/租賃圖書進行閱讀，閱讀可以獲取RCM和WCM。",
