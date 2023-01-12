@@ -46,7 +46,7 @@
     "resultTitle": "Lottery Result",
     "noNft": "Sorry, all NFTs for this book have been released.",
     "noAccessTitle": "Not Eligible",
-    "noAccess": "Sorry, you are not a whitelist user and cannot participate in the lucky draw for this event.",
+    "noAccess": "Sorry, you are not eligible for the book draw. You can buy whitelist NFT in the mall to get the qualification.",
     "noSecectBook": "Please select the book for the raffle.",
     "applyTitle": "Apply Lucky draw",
     "rule": "",

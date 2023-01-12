@@ -45,7 +45,7 @@
     "successText": "申请成功，请等待抽奖结果",
     "resultTitle": "抽奖结果",
     "noNft": "对不起,这本书的所有nft已经没有了。",
-    "noAccess": "对不起，您不是白名单用户，不能参加本次活动的抽奖。",
+    "noAccess": "对不起，你没有获得抽书资格。你可以在商城中购买白名单NFT获得抽书资格。",
     "noAccessTitle": "非活动用户",
     "noSecectBook": "请选择参加抽奖的图书。",
     "applyTitle": "报名抽奖",
