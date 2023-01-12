@@ -50,7 +50,11 @@
     "noSecectBook": "请选择参加抽奖的图书。",
     "applyTitle": "报名抽奖",
     "eventDesc": "当前活动剩余参加次数:",
-    "rule": ""
+    "rule": "",
+    "day": "天",
+    "hour": "时",
+    "minutes": "分",
+    "second": "秒"
   },
   "wcmlottery": {
     "title": "幸运用户",
