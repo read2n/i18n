@@ -50,7 +50,11 @@
     "noSecectBook": "Please select the book for the raffle.",
     "applyTitle": "Apply Lucky draw",
     "rule": "",
-    "eventdesc": "The number of times the current event can participate:"
+    "eventdesc": "The number of times the current event can participate:",
+    "day": "day",
+    "hour": "h",
+    "minutes": "m",
+    "second": "s"
   },
   "wcmlottery": {
     "title": "Lucky User",
