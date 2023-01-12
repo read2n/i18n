@@ -50,7 +50,11 @@
     "noSecectBook": "請選擇參加抽獎的圖書。",
     "applyTitle": "報名抽獎",
     "eventDesc": "當前活動剩余參加次數:",
-    "rule": ""
+    "rule": "",
+    "day": "天",
+    "hour": "時",
+    "minutes": "分",
+    "second": "秒"
   },
   "wcmlottery": {
     "title": "幸運用戶",
