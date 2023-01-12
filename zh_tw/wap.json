@@ -9,7 +9,13 @@
     "promotions": "Events",
     "rule": "規則"
   },
-  "events": {},
+  "events": {
+    "notstart": "活動尚未開始",
+    "btnText1": "去報名",
+    "btnText2": "報名結束",
+    "btnText3": "查看結果",
+    "applyText": "報名次數:"
+  },
   "stepn": {
     "title": "StepN創世鞋用戶",
     "tip": "領取創世NFT",
@@ -29,17 +35,21 @@
   "whitelist": {
     "title": "白名單用戶",
     "tip": "領取創世NFT",
-    "btnText": "開始抽獎",
-    "Book": "書籍",
-    "noSecectBook": "請選擇參加抽獎的圖書。",
-    "failText": "這次沒有抽中NFT,您可以等待下一次新書的發布。",
+    "btnText": "報名",
+    "btnText2": "查看結果",
+    "btnText3": "查看結果",
+    "noJoinText": "對不起，您沒有參加本次活動!",
     "failTitle": "沒有抽中",
-    "alreadyText": "抱歉您已經參加過本次活動",
+    "failText": "這次沒有抽中NFT,您可以等待下一次新書的發布。",
+    "successTitle": "申請成功",
+    "successText": "申請成功，請等待抽獎結果",
+    "resultTitle": "抽獎結果",
     "noNft": "對不起,這本書的所有nft已經沒有了。",
     "noAccess": "對不起，您不是白名單用戶，不能參加本次活動的抽獎。",
     "noAccessTitle": "非活動用戶",
-    "successTitle": "恭喜抽中NFT",
-    "eventDesc": "當前活動剩余參加次數：",
+    "noSecectBook": "請選擇參加抽獎的圖書。",
+    "applyTitle": "報名抽獎",
+    "eventDesc": "當前活動剩余參加次數:",
     "rule": ""
   },
   "wcmlottery": {
