@@ -10,7 +10,11 @@
     "rule": "规则"
   },
   "events": {
-    "notstart": "活动尚未开始"
+    "notstart": "活动尚未开始",
+    "btnText1": "去报名",
+    "btnText2": "报名结束",
+    "btnText3": "查看结果",
+    "applyText": "报名次数:"
   },
   "stepn": {
     "title": "StepN创世鞋用户",
@@ -31,18 +35,26 @@
   "whitelist": {
     "title": "白名单用户",
     "tip": "领取创世NFT",
-    "btnText": "开始抽奖",
-    "book": "书籍",
-    "noSecectBook": "请选择参加抽奖的图书。",
-    "failText": "这次没有抽中NFT,您可以等待下一次新书的发布。",
+    "btnText": "报名",
+    "btnText2": "查看结果",
+    "btnText3": "查看结果",
+    "noJoinText": "对不起，您没有参加本次活动!",
     "failTitle": "没有抽中",
-    "alreadyText": "抱歉您已经参加过本次活动",
+    "failText": "这次没有抽中NFT,您可以等待下一次新书的发布。",
+    "successTitle": "申请成功",
+    "successText": "申请成功，请等待抽奖结果",
+    "resultTitle": "抽奖结果",
     "noNft": "对不起,这本书的所有nft已经没有了。",
-    "noAccess": "对不起，您不是白名单用户，不能参加本次活动的抽奖。",
+    "noAccess": "对不起，你没有获得抽书资格。你可以在商城中购买白名单NFT获得抽书资格。",
     "noAccessTitle": "非活动用户",
-    "successTitle": "恭喜抽中NFT",
+    "noSecectBook": "请选择参加抽奖的图书。",
+    "applyTitle": "报名抽奖",
     "eventDesc": "当前活动剩余参加次数:",
-    "rule": ""
+    "rule": "",
+    "day": "天",
+    "hour": "时",
+    "minutes": "分",
+    "second": "秒"
   },
   "wcmlottery": {
     "title": "幸运用户",

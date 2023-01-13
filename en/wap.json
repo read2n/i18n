@@ -9,7 +9,13 @@
     "promotions": "Events",
     "rule": "Rule"
   },
-  "events": {},
+  "events": {
+    "notstart": "Activity not started.",
+    "btnText1": "To Apply",
+    "btnText2": "Apply Ends",
+    "btnText3": "View Results",
+    "applyText": "Number of Apply:"
+  },
   "stepn": {
     "title": "STEPN",
     "tip": "Genesis NFT",
@@ -29,18 +35,26 @@
   "whitelist": {
     "title": "WhiteList",
     "tip": "Genesis NFT",
-    "btnText": "Start Raffle",
-    "book": "Book",
-    "noSecectBook": "Please select the book for the raffle.",
-    "failText": "The NFT was not drawn this time, you can wait for the new book to be released next time.",
+    "btnText": "Apply",
+    "btnText2": "View Results",
+    "btnText3": "View Results",
+    "noJoinText": "Sorry, you have not participated in the event!",
     "failTitle": "Didn't win",
-    "alreadyText": "Sorry, you have already participated in this event.",
+    "failText": "The NFT was not drawn this time, you can wait for the new book to be released next time.",
+    "successTitle": "Apply Success",
+    "successText": "Apply successfully, please wait for the lottery result",
+    "resultTitle": "Lottery Result",
     "noNft": "Sorry, all NFTs for this book have been released.",
-    "noAccess": "Sorry, you are not a whitelist user and cannot participate in the lucky draw for this event.",
     "noAccessTitle": "Not Eligible",
-    "successTitle": "Win the new NFT",
+    "noAccess": "Sorry, you are not eligible for the book draw. You can buy whitelist NFT in the mall to get the qualification.",
+    "noSecectBook": "Please select the book for the raffle.",
+    "applyTitle": "Apply Lucky draw",
     "rule": "",
-    "eventdesc": "Number of remaining lottery draws:"
+    "eventdesc": "The number of times the current event can participate:",
+    "day": "day",
+    "hour": "h",
+    "minutes": "m",
+    "second": "s"
   },
   "wcmlottery": {
     "title": "Lucky User",
