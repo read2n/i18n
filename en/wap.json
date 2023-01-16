@@ -23,7 +23,7 @@
     "resultTitle": "Raffle Results",
     "failTitle": "Didn't win",
     "failText": "You did not win the WL NFT.",
-    "noAccess": "Sorry, you are not a STEPN Genesis shoe users and cannot participate in the lucky draw for this event.",
+    "noAccess": "Sorry, You did not participate in the StepN activity verification or the number of lucky draws has run out?",
     "noAccessTitle": "Not Eligible",
     "rule": ""
   },

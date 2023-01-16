@@ -23,7 +23,7 @@
     "resultTitle": "抽奖结果",
     "failTitle": "没有抽中",
     "failText": "您没有抽中 WL NFT",
-    "noAccess": "对不起，您不是stepn创世鞋用户，不能参加本次活动的抽奖。",
+    "noAccess": "抱歉, 您未参与StepN活动验证或抽奖次数已用完?",
     "noAccessTitle": "非活动用户",
     "eventDesc": "当前活动剩余参加次数：",
     "rule": ""
