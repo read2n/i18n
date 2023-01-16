@@ -44,6 +44,8 @@
     "noAccess": "Sorry, you are not eligible for the book draw. You can buy whitelist NFT in the mall to get the qualification.",
     "noSecectBook": "Please select the book for the raffle.",
     "applyTitle": "Apply Lucky draw",
+    "countDesc": "my registration:",
+    "sliderDesc": "Number of registrations:",
     "rule": "",
     "eventdesc": "The number of times the current event can participate:",
     "day": "day",
