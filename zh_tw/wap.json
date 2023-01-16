@@ -46,6 +46,8 @@
     "noSecectBook": "請選擇參加抽獎的圖書。",
     "applyTitle": "報名抽獎",
     "eventDesc": "當前活動剩余參加次數:",
+    "countDesc": "我的報名:",
+    "sliderDesc": "選擇報名抽獎次數:",
     "rule": "",
     "day": "天",
     "hour": "時",

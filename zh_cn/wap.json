@@ -46,6 +46,8 @@
     "noSecectBook": "请选择参加抽奖的图书。",
     "applyTitle": "报名抽奖",
     "eventDesc": "当前活动剩余参加次数:",
+    "countDesc": "我的报名:",
+    "sliderDesc": "选择报名抽奖次数:",
     "rule": "",
     "day": "天",
     "hour": "时",
