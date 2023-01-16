@@ -17,19 +17,14 @@
     "applyText": "Number of Apply:"
   },
   "stepn": {
-    "title": "STEPN",
-    "tip": "Genesis NFT",
+    "title": "Read2N Airdrop for",
+    "tip": "STEPN Genesis shoe users",
     "btnText": "Start Raffle",
-    "book": "Book",
-    "noSecectBook": "Please select the book for the raffle.",
-    "failText": "The NFT was not drawn this time, you can wait for the new book to be released next time.",
+    "resultTitle": "Lottery Result",
     "failTitle": "Didn't win",
-    "alreadyText": "Sorry, you have already participated in this event.",
-    "noNft": "Sorry, all NFTs for this book have been released.",
-    "noAccess": "Sorry, you are not a whitelist user and cannot participate in the lucky draw for this event.",
+    "failText": "You did not win the WL NFT.",
+    "noAccess": "Sorry, you are not a STEPN Genesis shoe users and cannot participate in the lucky draw for this event.",
     "noAccessTitle": "Not Eligible",
-    "successTitle": "Win the new NFT",
-    "eventdesc": "Number of remaining lottery draws:",
     "rule": ""
   },
   "whitelist": {
