@@ -17,10 +17,10 @@
     "applyText": "Number of Apply:"
   },
   "stepn": {
-    "title": "Airdrop for",
+    "title": "Airdrop for stepN",
     "tip": "Genesis shoe users",
     "btnText": "Start Raffle",
-    "resultTitle": "Lottery Result",
+    "resultTitle": "Raffle Results",
     "failTitle": "Didn't win",
     "failText": "You did not win the WL NFT.",
     "noAccess": "Sorry, you are not a STEPN Genesis shoe users and cannot participate in the lucky draw for this event.",
