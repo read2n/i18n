@@ -1,4 +1,18 @@
 {
+  "@deleteAccountConfirm": {
+    "placeholders": {
+      "account": {
+        "type": "String"
+      }
+    }
+  },
+  "@deleteAccountConfirmShort": {
+    "placeholders": {
+      "account": {
+        "type": "String"
+      }
+    }
+  },
   "@friendInvitesFriends": {
     "placeholders": {
       "who": {
@@ -118,6 +132,10 @@
   "creatorCenter": "Creator Center",
   "darkMode": "Dark Mode",
   "debrisType": "debrisType",
+  "delete": "Delete",
+  "deleteAccount": "Delete Account",
+  "deleteAccountConfirm": "Are you sure want to delete your account: {account}? Your account will be permanently deleted, and we will NOT be able to recover it. This will result the total loss of All your assets and data.",
+  "deleteAccountConfirmShort": "Are you sure want to delete your account: \n{account}?",
   "detail": "Detail",
   "directRebate": "Direct invitation rebate",
   "discord": "Discord",
@@ -201,6 +219,7 @@
   "newPassword": "New Password",
   "newScroll": "New Scroll",
   "newScrollDebris": "New Scroll Debris",
+  "next": "Next",
   "nextChapter": "Next",
   "nftCountStat": "{total} NFTs, {mint} minted",
   "nickname": "Nickname",
