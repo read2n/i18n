@@ -14,7 +14,8 @@
     "btnText1": "去报名",
     "btnText2": "报名结束",
     "btnText3": "查看结果",
-    "applyText": "报名次数:"
+    "applyText": "报名次数:",
+    "newYearApply": "报名人数:"
   },
   "stepn": {
     "title": "创世鞋用户",
@@ -110,5 +111,20 @@
     "discountUnit": "帮砍金额（RCM）",
     "tabNull": "暂无邀请",
     "expired": "已过期"
+  },
+  "newYear": {
+    "title": "新年快乐",
+    "tip": "抽奖活动",
+    "award0": "一等奖",
+    "award1": "二等奖",
+    "award2": "三等奖",
+    "award3": "新年快乐",
+    "applySuccess": "报名成功",
+    "failTitle": "没有抽中",
+    "failText": "对不起，本次活动您未中奖",
+    "noJoinTex": "对不起，您还没有参加活动！",
+    "btnText": "报名",
+    "btnText2": "报名结束",
+    "btnText3": "查看结果"
   }
 }
