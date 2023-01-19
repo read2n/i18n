@@ -1,4 +1,18 @@
 {
+  "@deleteAccountConfirm": {
+    "placeholders": {
+      "account": {
+        "type": "String"
+      }
+    }
+  },
+  "@deleteAccountConfirmShort": {
+    "placeholders": {
+      "account": {
+        "type": "String"
+      }
+    }
+  },
   "@friendInvitesFriends": {
     "placeholders": {
       "who": {
@@ -118,6 +132,10 @@
   "creatorCenter": "創作者中心",
   "darkMode": "深色模式",
   "debrisType": "碎片等級",
+  "delete": "删除",
+  "deleteAccount": "删除帳號",
+  "deleteAccountConfirm": "您確定要删除您的帳號: {account}嗎? 您的帳號將被永久删除，無法恢復。這將導致您完全遺失您的資產與數據。",
+  "deleteAccountConfirmShort": "您確定要删除您的帳號：\n{account}嗎？",
   "detail": "明細",
   "directRebate": "直接邀請返佣",
   "discord": "Discord",
@@ -201,6 +219,7 @@
   "newPassword": "新密碼",
   "newScroll": "新捲軸",
   "newScrollDebris": "新捲軸碎片",
+  "next": "下一步",
   "nextChapter": "下一章",
   "nftCountStat": "總計{total} Mint{mint}",
   "nickname": "暱稱",
