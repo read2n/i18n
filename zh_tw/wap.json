@@ -8,7 +8,8 @@
     "earnDetail": "收益詳情",
     "promotions": "Events",
     "rule": "規則",
-    "year": "新年快樂"
+    "year": "新年快樂",
+    "wlExchange": "兌換 WL"
   },
   "events": {
     "notstart": "活動尚未開始",
@@ -128,5 +129,15 @@
     "btnText": "報名",
     "btnText2": "報名結束",
     "btnText3": "查看結果"
+  },
+  "wlExchange": {
+    "title": "抽獎機會兌換",
+    "tip": "白名單NFT",
+    "eventDesc": "當前活動剩余兌換次數:",
+    "btnText": "兌換",
+    "applyTitle": "兌換 Wl",
+    "sliderDesc": "選擇兌換次數:",
+    "SuccessfulText": "兌換成功",
+    "failText": "gas費用錯誤"
   }
 }

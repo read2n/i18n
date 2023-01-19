@@ -8,7 +8,8 @@
     "earnDetail": "收益详情",
     "promotions": "Events",
     "rule": "规则",
-    "year": "新年快乐"
+    "year": "新年快乐",
+    "wlExchange": "兑换 WL"
   },
   "events": {
     "notstart": "活动尚未开始",
@@ -127,5 +128,15 @@
     "btnText": "报名",
     "btnText2": "报名结束",
     "btnText3": "查看结果"
+  },
+  "wlExchange": {
+    "title": "抽奖机会兑换",
+    "tip": "白名单NFT",
+    "eventDesc": "当前活动剩余兑换次数:",
+    "btnText": "兑换",
+    "applyTitle": "兑换 Wl",
+    "sliderDesc": "选择兑换次数:",
+    "SuccessfulText": "兑换成功",
+    "failText": "gas费用错误"
   }
 }
