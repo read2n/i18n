@@ -135,7 +135,7 @@
     "eventDesc": "Activity Remaining Redemption Times:",
     "btnText": "Exchange",
     "applyTitle": "Exchange Wl",
-    "sliderDesc": "Select the number of redemptions",
+    "sliderDesc": "Select the number of redemptions:",
     "SuccessfulText": "Successful Exchange",
     "failText": "gas fee error"
   }
