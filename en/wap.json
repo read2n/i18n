@@ -8,7 +8,8 @@
     "earnDetail": "Earnings details",
     "promotions": "Events",
     "rule": "Rule",
-    "year": "Happy New Year"
+    "year": "Happy New Year",
+    "wlExchange": "Exchange WL"
   },
   "events": {
     "notstart": "Activity not started.",
@@ -127,5 +128,15 @@
     "btnText": "Apply",
     "btnText2": "Apply Ends",
     "btnText3": "View Results"
+  },
+  "wlExchange": {
+    "title": "Raffle chances",
+    "tip": "redeemed for WL",
+    "eventDesc": "Activity Remaining Redemption Times:",
+    "btnText": "Exchange",
+    "applyTitle": "Exchange Wl",
+    "sliderDesc": "Select the number of redemptions",
+    "SuccessfulText": "Successful Exchange",
+    "failText": "gas fee error"
   }
 }
