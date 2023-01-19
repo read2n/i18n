@@ -7,14 +7,16 @@
     "author": "創作者中心",
     "earnDetail": "收益詳情",
     "promotions": "Events",
-    "rule": "規則"
+    "rule": "規則",
+    "year": "新年快樂"
   },
   "events": {
     "notstart": "活動尚未開始",
     "btnText1": "去報名",
     "btnText2": "報名結束",
     "btnText3": "查看結果",
-    "applyText": "報名次數:"
+    "applyText": "報名次數:",
+    "newYearApply": "報名人數:"
   },
   "stepn": {
     "title": "創世鞋用戶",
@@ -111,5 +113,20 @@
     "discountUnit": "幫砍金額（RCM）",
     "tabNull": "暫無邀請",
     "expired": "已過期"
+  },
+  "newYear": {
+    "title": "新年快樂",
+    "tip": "抽奖活动",
+    "award0": "一等獎",
+    "award1": "二等獎",
+    "award2": "三等獎",
+    "award3": "新年快樂",
+    "applySuccess": "報名成功",
+    "failTitle": "沒有抽中",
+    "failText": "對不起，本次活動您未中獎",
+    "noJoinTex": "對不起，您還沒有參加活動！",
+    "btnText": "報名",
+    "btnText2": "報名結束",
+    "btnText3": "查看結果"
   }
 }
