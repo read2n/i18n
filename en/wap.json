@@ -7,14 +7,17 @@
     "author": "Creator Center",
     "earnDetail": "Earnings details",
     "promotions": "Events",
-    "rule": "Rule"
+    "rule": "Rule",
+    "year": "Happy New Year",
+    "wlExchange": "Exchange WL"
   },
   "events": {
     "notstart": "Activity not started.",
     "btnText1": "To Apply",
     "btnText2": "Apply Ends",
     "btnText3": "View Results",
-    "applyText": "Number of Apply:"
+    "applyText": "Number of Apply:",
+    "newYearApply": "Number of applications:"
   },
   "stepn": {
     "title": "Airdrop for StepN",
@@ -110,5 +113,30 @@
     "discountUnit": "group bargain",
     "tabNull": "no invitation yet",
     "expired": "Expired"
+  },
+  "newYear": {
+    "title": "Happy Chinese",
+    "tip": "New Year",
+    "award0": "First Prize",
+    "award1": "Second Prize",
+    "award2": "Third Prize",
+    "award3": "Happy New Year",
+    "applySuccess": "Apply Success",
+    "failTitle": "Didn't win",
+    "failText": "Sorry, you did not win this event.",
+    "noJoinTex": "Sorry, you have not participated in the event!",
+    "btnText": "Apply",
+    "btnText2": "Apply Ends",
+    "btnText3": "View Results"
+  },
+  "wlExchange": {
+    "title": "Raffle chances",
+    "tip": "redeemed  WL",
+    "eventDesc": "Activity Remaining Redemption Times:",
+    "btnText": "Exchange",
+    "applyTitle": "Exchange Wl",
+    "sliderDesc": "Select the number of redemptions:",
+    "SuccessfulText": "Successful Exchange",
+    "failText": "gas fee error"
   }
 }
