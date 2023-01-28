@@ -350,6 +350,7 @@
   "toastPasswordErrorDifferent": "The two passwords are different",
   "toastPasswordErrorRequirements": "Password should be 8-20 characters without any special symbols",
   "toastPaymentSuccessful": "Payment successful",
+  "toastPermissionHintOpenCamera": "Please turn on the camera permission first",
   "toastSaveError": "save error",
   "toastSaveSuccess": "save success",
   "toastSocketErrorLv": "The book NFT has not reached the milestone level to unlock this socket",

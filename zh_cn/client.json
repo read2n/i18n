@@ -350,6 +350,7 @@
   "toastPasswordErrorDifferent": "两次输入的密码不一致",
   "toastPasswordErrorRequirements": "密码应为8～20个字符，不含任何特殊符号",
   "toastPaymentSuccessful": "付款成功",
+  "toastPermissionHintOpenCamera": "请先打开照相机权限",
   "toastSaveError": "保存出错",
   "toastSaveSuccess": "保存成功",
   "toastSocketErrorLv": "此NFT没有到达目标等级解锁此插槽",
