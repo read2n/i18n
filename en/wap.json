@@ -9,7 +9,8 @@
     "promotions": "Events",
     "rule": "Rule",
     "year": "Happy New Year",
-    "wlExchange": "Exchange WL"
+    "wlExchange": "Exchange WL",
+    "wcmwl": "WL/WCM Lottery"
   },
   "events": {
     "notstart": "Activity not started.",
@@ -37,6 +38,8 @@
     "btnText2": "Apply Ends",
     "btnText3": "View Results",
     "noJoinText": "Sorry, you have not participated in the event!",
+    "wlApplyDesc": "Number of WL registrations:",
+    "allSelect": "All",
     "failTitle": "Didn't win",
     "failText": "The NFT was not drawn this time, you can wait for the new book to be released next time.",
     "successTitle": "Apply Success",
@@ -54,7 +57,9 @@
     "day": "day",
     "hour": "h",
     "minutes": "m",
-    "second": "s"
+    "second": "s",
+    "resilienceText": "Resilience",
+    "lucklyText": "Luckly"
   },
   "wcmlottery": {
     "title": "Lucky User",
@@ -138,5 +143,31 @@
     "sliderDesc": "Select the number of redemptions:",
     "SuccessfulText": "Successful Exchange",
     "failText": "gas fee error"
+  },
+  "wcmwl": {
+    "title": "Whitelist/WCM",
+    "tip": "Users draw NFT",
+    "wlDesc": "WhiteList Lottery:",
+    "wcmDesc": "WCM+RCM:",
+    "countDesc": "My registration:",
+    "selectText": "Select",
+    "countText": "times",
+    "wlApplyTitle": "Apply Lucky draw",
+    "wlApplyDesc": "Number of WL registrations:",
+    "allSelect": "All",
+    "wcmApplyTitle": "Apply Lucky draw",
+    "sliderDesc": "Number of registrations:",
+    "resultTitle": "Lottery Result",
+    "btnText": "Apply",
+    "btnText2": "View Results",
+    "btnText3": "View Results",
+    "noSecectBook": "Please select the book for the raffle.",
+    "noAccessTitle": "Not Eligible",
+    "noAccess": "Sorry, you are not eligible for the book draw. You can buy whitelist NFT in the mall to get the qualification.",
+    "noNft": "Sorry, all NFTs for this book have been released.",
+    "successTitle": "Apply Success",
+    "successText": "Apply successfully, please wait for the lottery result",
+    "resilienceText": "Resilience",
+    "lucklyText": "Luckly"
   }
 }

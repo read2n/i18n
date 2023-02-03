@@ -9,7 +9,8 @@
     "promotions": "Events",
     "rule": "规则",
     "year": "新年快乐",
-    "wlExchange": "兑换 WL"
+    "wlExchange": "兑换 WL",
+    "wcmwl": "WL/WCM 抽奖活动"
   },
   "events": {
     "notstart": "活动尚未开始",
@@ -55,7 +56,11 @@
     "day": "天",
     "hour": "时",
     "minutes": "分",
-    "second": "秒"
+    "second": "秒",
+    "resilienceText": "韧性",
+    "lucklyText": "幸运",
+    "wlApplyDesc": "已选择WL抽奖机会:",
+    "allSelect": "全选"
   },
   "wcmlottery": {
     "title": "幸运用户",
@@ -138,5 +143,31 @@
     "sliderDesc": "选择兑换次数:",
     "SuccessfulText": "兑换成功",
     "failText": "gas费用错误"
+  },
+  "wcmwl": {
+    "title": "白名单/WCM用户",
+    "tip": "抽取版权NFT",
+    "wlDesc": "WhiteList 抽奖次数:",
+    "wcmDesc": "WCM+RCM:",
+    "countDesc": "我的报名:",
+    "selectText": "选择",
+    "countText": "次",
+    "wlApplyTitle": "报名抽奖",
+    "wlApplyDesc": "已选择WL抽奖机会:",
+    "allSelect": "全选",
+    "wcmApplyTitle": "报名抽奖",
+    "sliderDesc": "已选择WCM+RCM抽奖机会:",
+    "resultTitle": "抽奖结果",
+    "btnText": "报名",
+    "btnText2": "报名结束",
+    "btnText3": "查看结果",
+    "noSecectBook": "请选择参加抽奖的图书。",
+    "noAccessTitle": "非活动用户",
+    "noAccess": "对不起，你没有获得抽书资格。你可以在商城中购买白名单NFT获得抽书资格。",
+    "noNft": "对不起,这本书的所有nft已经没有了。",
+    "successTitle": "申请成功",
+    "successText": "申请成功，请等待抽奖结果",
+    "resilienceText": "韧性",
+    "lucklyText": "幸运"
   }
 }
