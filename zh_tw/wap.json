@@ -55,7 +55,11 @@
     "day": "天",
     "hour": "時",
     "minutes": "分",
-    "second": "秒"
+    "second": "秒",
+    "resilienceText": "韌性",
+    "lucklyText": "幸運",
+    "wlApplyDesc": "已選擇WL抽獎機會:",
+    "allSelect": "全選"
   },
   "wcmlottery": {
     "title": "幸運用戶",
@@ -139,5 +143,31 @@
     "sliderDesc": "選擇兌換次數:",
     "SuccessfulText": "兌換成功",
     "failText": "gas費用錯誤"
+  },
+  "wcmwl": {
+    "title": "白名單/WCM用戶",
+    "tip": "抽取版權NFT",
+    "wlDesc": "WL 抽獎次數:",
+    "wcmDesc": "WCM+RCM:",
+    "countDesc": "我的報名:",
+    "selectText": "選擇",
+    "countText": "次",
+    "wlApplyTitle": "報名抽獎",
+    "wlApplyDesc": "已選擇WL抽獎機會:",
+    "allSelect": "全選",
+    "wcmApplyTitle": "報名抽獎",
+    "sliderDesc": "已選擇WCM+RCM抽獎機會:",
+    "resultTitle": "抽獎結果",
+    "btnText": "報名",
+    "btnText2": "報名結束",
+    "btnText3": "查看結果",
+    "noSecectBook": "請選擇參加抽獎的圖書。",
+    "noAccessTitle": "非活動用戶",
+    "noAccess": "對不起，你沒有獲得抽書資格。你可以在商城中購買白名單NFT獲得抽書資格。",
+    "noNft": "對不起,這本書的所有nft已經沒有了。",
+    "successTitle": "申請成功",
+    "successText": "申請成功，請等待抽獎結果",
+    "resilienceText": "韌性",
+    "lucklyText": "幸運"
   }
 }
