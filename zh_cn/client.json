@@ -89,6 +89,8 @@
   "bonus": "加成",
   "bonusResilience": "提升Resilience",
   "book": "书",
+  "bookCompleted": "已完结",
+  "bookSerial": "连载中",
   "bookShelfBubbleTips1": "您可以通过筛选快速找到您所需要的图书或者道具。",
   "bookShelfBubbleTips2": "点击这里您可以跳转到合成页面，通过合成您可以获得更高品质的包书皮/卷轴。",
   "bookShelfBubbleTips3": "这里是您所拥有的的图书，以及此图书所有NFT的信息，右上角则是您所拥有的NFT数量。",
