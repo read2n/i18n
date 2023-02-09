@@ -77,6 +77,7 @@
   "accountLogin": "賬戶登錄",
   "activationCode": "激活碼",
   "all": "全部",
+  "allChapters": "全部章節(共{count}章)",
   "allTime": "累計",
   "appVersion": "App版本",
   "availableTotal": "可用/總共",

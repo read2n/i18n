@@ -77,6 +77,7 @@
   "accountLogin": "Account Login",
   "activationCode": "Activation code",
   "all": "All",
+  "allChapters": "All chapters ({count} chapters in total)",
   "allTime": "All",
   "appVersion": "App version",
   "availableTotal": "Available/Total",

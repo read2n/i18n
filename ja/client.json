@@ -77,6 +77,7 @@
   "accountLogin": "アカウント ログイン",
   "activationCode": "アクティベーションコード",
   "all": "すべて",
+  "allChapters": "全話（全{count}話）",
   "allTime": "すべて",
   "appVersion": "アプリのバージョン",
   "availableTotal": "利用可能/合計",
