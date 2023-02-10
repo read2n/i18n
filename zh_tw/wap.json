@@ -9,7 +9,8 @@
     "promotions": "Events",
     "rule": "規則",
     "year": "新年快樂",
-    "wlExchange": "兌換 WL"
+    "wlExchange": "兌換 WL",
+    "wlBox": "WL Box 抽奖活动"
   },
   "events": {
     "notstart": "活動尚未開始",
@@ -139,7 +140,7 @@
     "tip": "白名單NFT",
     "eventDesc": "當前活動剩余兌換次數:",
     "btnText": "兌換",
-    "applyTitle": "兌換 Wl",
+    "applyTitle": "兌換 WL",
     "sliderDesc": "選擇兌換次數:",
     "SuccessfulText": "兌換成功",
     "failText": "gas費用錯誤"
@@ -169,5 +170,27 @@
     "successText": "申請成功，請等待抽獎結果",
     "resilienceText": "韌性",
     "lucklyText": "幸運"
+  },
+  "wlBox": {
+    "title": "使用 RCM",
+    "tip": "WlBox抽獎",
+    "rcmText": "當前活動可參與次數",
+    "rcmDesc": "RCM:",
+    "countDesc": "我的報名:",
+    "rcmApplyTitle": "報名抽獎",
+    "sliderDesc": "已選擇RCM抽獎機會:",
+    "resultTitle": "抽獎結果",
+    "btnText": "報名",
+    "btnText2": "報名結束",
+    "btnText3": "查看結果",
+    "noAccessTitle": "非活動用戶",
+    "noAccess": "對不起，您不符合參加和活動的資格。",
+    "noWlBox": "對不起，WL Box已抽完",
+    "successTitle": "報名成功",
+    "successText": "報名成功，請等待抽獎結果",
+    "alreadyJoinText": "對不起，您已經參加過這個活動！",
+    "noJoinText": "對不起，您不符合參加活動的資格",
+    "failTitle": "沒有抽中",
+    "failText": "對不起，您沒有在本次活動中抽中WL Box"
   }
 }
