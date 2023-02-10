@@ -329,6 +329,7 @@
   "titleReadStrengthEmpty": "The book does not have enough strength and you would not get any more income by further reading.",
   "titleScrollUpgrade": "1. There are two craft options for synthesizing scrolls",
   "titleSelectAvatar": "Select Avatar",
+  "titleTBoxOpenConfirm": "Are you sure to open this T-box?",
   "titleUpgradeFail": "Sorry, this upgrade failed",
   "titleWlBoxOpenConfirm": "Are you sure to open this WL Box?",
   "titleWlOperation": "Please select the operation（Sell or Exchange）",
