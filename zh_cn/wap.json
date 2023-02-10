@@ -184,7 +184,7 @@
     "btnText2": "报名结束",
     "btnText3": "查看结果",
     "noAccessTitle": "非活动用户",
-    "noAccess": "对不起，您不符合参加活动的资格",
+    "noAccess": "对不起, 抽奖需要账户余额大于10RCM",
     "noWlBox": "对不起，WL Box已抽完",
     "successTitle": "报名成功",
     "successText": "报名成功，请等待抽奖结果",
