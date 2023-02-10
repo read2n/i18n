@@ -172,8 +172,8 @@
     "lucklyText": "幸运"
   },
   "wlBox": {
-    "title": "使用 RCM",
-    "tip": "参与WLBox抽奖",
+    "title": "消耗 RCM",
+    "tip": "参与WL-Box抽奖",
     "rcmText": "当前活动可参与次数",
     "rcmDesc": "RCM:",
     "countDesc": "我的报名:",
