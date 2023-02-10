@@ -184,7 +184,7 @@
     "btnText2": "報名結束",
     "btnText3": "查看結果",
     "noAccessTitle": "非活動用戶",
-    "noAccess": "對不起，您不符合參加和活動的資格。",
+    "noAccess": "對不起, 抽獎需要賬戶余額大於10RCM。",
     "noWlBox": "對不起，WL Box已抽完",
     "successTitle": "報名成功",
     "successText": "報名成功，請等待抽獎結果",
