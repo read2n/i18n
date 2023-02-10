@@ -10,7 +10,8 @@
     "rule": "Rule",
     "year": "Happy New Year",
     "wlExchange": "Exchange WL",
-    "wcmwl": "WL/WCM Lottery"
+    "wcmwl": "WL/WCM Lottery",
+    "wlBox": "WL Box Lottery"
   },
   "events": {
     "notstart": "Activity not started.",
@@ -139,7 +140,7 @@
     "tip": "redeemed  WL",
     "eventDesc": "Activity Remaining Redemption Times:",
     "btnText": "Exchange",
-    "applyTitle": "Exchange Wl",
+    "applyTitle": "Exchange WL",
     "sliderDesc": "Select the number of redemptions:",
     "SuccessfulText": "Successful Exchange",
     "failText": "gas fee error"
@@ -159,7 +160,7 @@
     "sliderDesc": "Number of registrations:",
     "resultTitle": "Lottery Result",
     "btnText": "Apply",
-    "btnText2": "View Results",
+    "btnText2": "Apply Ends",
     "btnText3": "View Results",
     "noSecectBook": "Please select the book for the raffle.",
     "noAccessTitle": "Not Eligible",
@@ -169,5 +170,27 @@
     "successText": "Apply successfully, please wait for the lottery result",
     "resilienceText": "Resilience",
     "lucklyText": "Luckly"
+  },
+  "wlBox": {
+    "title": "Consume RCM",
+    "tip": "WLBox Lottery",
+    "rcmText": "Activity Remaining Redemption Times",
+    "rcmDesc": "RCM:",
+    "countDesc": "my registration:",
+    "rcmApplyTitle": "Apply Lucky draw",
+    "sliderDesc": "Number of RCM Registrations:",
+    "resultTitle": "Lottery Result",
+    "btnText": "Apply",
+    "btnText2": "Apply Ends",
+    "btnText3": "View Results",
+    "noAccessTitle": "Not Eligible",
+    "noAccess": "Sorry, You are not eligible for participation and activities.",
+    "noWlBox": "Sorry,all  WL Box have been released.",
+    "successTitle": "Apply Success",
+    "successText": "Apply successfully, please wait for the lottery result",
+    "alreadyJoinText": "Sorry, you have already participated in the event!",
+    "noJoinText": "Sorry, you are not eligible to participate in the event",
+    "failTitle": "Didn't win",
+    "failText": "sorry, you did not win the WL Box in this event."
   }
 }
