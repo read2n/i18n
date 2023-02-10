@@ -83,6 +83,7 @@
   "1446": "You cannot lease your own NFT",
   "1447": "Please select the NFT of the same book",
   "1448": "You have already received",
+  "1451": "In order to prevent wrong operation and order, the amount is lower than 80% of the lowest market price and cannot be put on the shelves",
   "1501": "Product does not exist",
   "1502": "The product has been discontinued",
   "1503": "The product does not support purchase",
