@@ -184,7 +184,7 @@
     "btnText2": "Apply Ends",
     "btnText3": "View Results",
     "noAccessTitle": "Not Eligible",
-    "noAccess": "Sorry, You are not eligible for participation and activities.",
+    "noAccess": "Sorry, the lucky draw requires an account balance greater than 10RCM",
     "noWlBox": "Sorry,all  WL Box have been released.",
     "successTitle": "Apply Success",
     "successText": "Apply successfully, please wait for the lottery result",
