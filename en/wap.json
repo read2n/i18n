@@ -11,7 +11,8 @@
     "year": "Happy New Year",
     "wlExchange": "Exchange WL",
     "wcmwl": "WL/WCM Lottery",
-    "wlBox": "WL Box Lottery"
+    "wlBox": "WL Box Lottery",
+    "voteBook": ""
   },
   "events": {
     "notstart": "Activity not started.",
@@ -19,7 +20,10 @@
     "btnText2": "Apply Ends",
     "btnText3": "View Results",
     "applyText": "Number of Apply:",
-    "newYearApply": "Number of applications:"
+    "newYearApply": "Number of applications:",
+    "voteBtnText1": "To Vote",
+    "voteBtnText2": "Voting Ends",
+    "voteBtnText3": "Voting results"
   },
   "stepn": {
     "title": "Airdrop for StepN",
@@ -192,5 +196,19 @@
     "noJoinText": "Sorry, you are not eligible to participate in the event",
     "failTitle": "Didn't win",
     "failText": "sorry, you did not win the WL Box in this event."
+  },
+  "voteBook": {
+    "title": "Weekly",
+    "tip": "New Book poll",
+    "voteText": "Event Remaining Votes",
+    "wcmDesc": "WCM: ",
+    "resultTitle": "Voting Results",
+    "countDesc": "Total votes: ",
+    "voteBtnText": "Vote",
+    "voteTitle": "Start Voting",
+    "sliderDesc": "Selected: ",
+    "noSecectBook": "Please select a book to vote on.",
+    "noAccessTitle": "Prompt",
+    "noAccess": "Sorry, you have already participated in this event"
   }
 }
