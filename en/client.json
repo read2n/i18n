@@ -1,76 +1,4 @@
 {
-  "@deleteAccountConfirm": {
-    "placeholders": {
-      "account": {
-        "type": "String"
-      }
-    }
-  },
-  "@deleteAccountConfirmShort": {
-    "placeholders": {
-      "account": {
-        "type": "String"
-      }
-    }
-  },
-  "@friendInvitesFriends": {
-    "placeholders": {
-      "who": {
-        "type": "String"
-      }
-    }
-  },
-  "@mintedNfts": {
-    "placeholders": {
-      "count": {
-        "type": "String"
-      }
-    }
-  },
-  "@nftCountStat": {
-    "placeholders": {
-      "total": {
-        "type": "String"
-      },
-      "mint": {
-        "type": "String"
-      }
-    }
-  },
-  "@rentStat": {
-    "placeholders": {
-      "count": {
-        "type": "String"
-      },
-      "mint": {
-        "type": "String"
-      }
-    }
-  },
-  "@sellStat": {
-    "placeholders": {
-      "count": {
-        "type": "String"
-      },
-      "mint": {
-        "type": "String"
-      }
-    }
-  },
-  "@totalNfts": {
-    "placeholders": {
-      "count": {
-        "type": "String"
-      }
-    }
-  },
-  "@upgradeToLv": {
-    "placeholders": {
-      "lv": {
-        "type": "int"
-      }
-    }
-  },
   "aboutRead2N": "About Read2N",
   "account": "Account",
   "accountAutoRegister": "Account will be automatically registered",
@@ -140,6 +68,7 @@
   "cover": "Cover",
   "coverRemove": "Remove",
   "creatorCenter": "Creator Center",
+  "customFiltering": "Custom Filtering",
   "darkMode": "Dark Mode",
   "debrisType": "debrisType",
   "delete": "Delete",
@@ -215,9 +144,11 @@
   "mallRent": "Rent",
   "mallSell": "Sell",
   "mark": "Mark",
+  "max": "MAX",
   "maximumLeasePeriod": "Maximum lease period",
   "me": "Me",
   "medal": "Medal",
+  "min": "MIN",
   "mineBubbleTips1": "This is the attribute of your account NFT (called ‘iNFT’). You could get attribute points by upgrading your iNFT and distribute these points to either Luck (more &amp, higher quality loot boxes) or Efficiency (more RCM income).",
   "mineBubbleTips2": "This is the Level and Strength of your iNFT. Upgrade your level to get attribute points, When you read2N, strength value would decrease and you need RCM to restore your strength.",
   "mint": "Mint",
@@ -259,6 +190,7 @@
   "photo": "Photo",
   "pointAscension": "Point ascension",
   "prevChapter": "Prev",
+  "price": "Price",
   "profit": "Profit",
   "purchases": "purchases",
   "quality": "Quality",
@@ -287,6 +219,7 @@
   "rentStat": "{count} renting, {mint} minted",
   "rentTime": "Rent Time",
   "rentalProfit": "Rental profit",
+  "reset": "Reset",
   "resilience": "Resilience",
   "restore": "Restore",
   "resurrectionMode": "Resurrection mode",

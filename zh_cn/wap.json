@@ -11,7 +11,8 @@
     "year": "新年快乐",
     "wlExchange": "兑换 WL",
     "wcmwl": "WL/WCM 抽奖活动",
-    "wlBox": "WL Box 抽奖活动"
+    "wlBox": "WL Box 抽奖活动",
+    "voteBook": ""
   },
   "events": {
     "notstart": "活动尚未开始",
@@ -19,7 +20,10 @@
     "btnText2": "报名结束",
     "btnText3": "查看结果",
     "applyText": "报名次数:",
-    "newYearApply": "报名人数:"
+    "newYearApply": "报名人数:",
+    "voteBtnText1": "去投票",
+    "voteBtnText2": "投票结束",
+    "voteBtnText3": "票选结果"
   },
   "stepn": {
     "title": "创世鞋用户",
@@ -192,5 +196,19 @@
     "noJoinText": "对不起，您不符合参加活动的资格",
     "failTitle": "没有抽中",
     "failText": "对不起，您没有在本次活动中抽中WL Box。"
+  },
+  "voteBook": {
+    "title": "每周",
+    "tip": "新书上线投票",
+    "voteText": "当前活动可参与次数",
+    "wcmDesc": "WCM: ",
+    "resultTitle": "票选结果",
+    "countDesc": "总票数: ",
+    "voteBtnText": "投票",
+    "voteTitle": "开始投票",
+    "sliderDesc": "已选择: ",
+    "noSecectBook": "请选择一本书进行投票",
+    "noAccessTitle": "提示",
+    "noAccess": "对不起，你已参与本次活动"
   }
 }

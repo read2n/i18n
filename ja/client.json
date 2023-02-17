@@ -1,76 +1,4 @@
 {
-  "@deleteAccountConfirm": {
-    "placeholders": {
-      "account": {
-        "type": "String"
-      }
-    }
-  },
-  "@deleteAccountConfirmShort": {
-    "placeholders": {
-      "account": {
-        "type": "String"
-      }
-    }
-  },
-  "@friendInvitesFriends": {
-    "placeholders": {
-      "who": {
-        "type": "String"
-      }
-    }
-  },
-  "@mintedNfts": {
-    "placeholders": {
-      "count": {
-        "type": "String"
-      }
-    }
-  },
-  "@nftCountStat": {
-    "placeholders": {
-      "total": {
-        "type": "String"
-      },
-      "mint": {
-        "type": "String"
-      }
-    }
-  },
-  "@rentStat": {
-    "placeholders": {
-      "count": {
-        "type": "String"
-      },
-      "mint": {
-        "type": "String"
-      }
-    }
-  },
-  "@sellStat": {
-    "placeholders": {
-      "count": {
-        "type": "String"
-      },
-      "mint": {
-        "type": "String"
-      }
-    }
-  },
-  "@totalNfts": {
-    "placeholders": {
-      "count": {
-        "type": "String"
-      }
-    }
-  },
-  "@upgradeToLv": {
-    "placeholders": {
-      "lv": {
-        "type": "int"
-      }
-    }
-  },
   "aboutRead2N": "Read2Nについて",
   "account": "アカウント",
   "accountAutoRegister": "アカウントは自動的に登録されます",
@@ -140,6 +68,7 @@
   "cover": "カバー",
   "coverRemove": "削除",
   "creatorCenter": "クリエイターセンター",
+  "customFiltering": "‘カスタマイズしたフィルタリング’",
   "darkMode": "ダークモード",
   "debrisType": "debrisType",
   "delete": "削除",
@@ -169,7 +98,7 @@
   "friendRebate": "フレンド招待のリベート",
   "full": "フル",
   "getBargain": "お買い得",
-  "getLootBox": "‘ハーベスティング’",
+  "getLootBox": "Get",
   "getRewards": "報酬を得る",
   "hasRead": "読み取り",
   "help": "ヘルプ",
@@ -215,9 +144,11 @@
   "mallRent": "家賃",
   "mallSell": "売る",
   "mark": "マーク",
+  "max": "‘最高’",
   "maximumLeasePeriod": "最大リース期間",
   "me": "私",
   "medal": "メダル",
+  "min": "‘最小’",
   "mineBubbleTips1": "これはあなたのアカウント NFT (「iNFT」と呼ばれる) の属性です。iNFT をアップグレードすることで属性ポイントを取得し、これらのポイントを幸運 (より多くの &amp; より高品質の戦利品ボックス) または効率 (より多くの RCM) に分配できます。 所得.",
   "mineBubbleTips2": "これはあなたの iNFT のレベルと強さです。レベルをアップグレードして属性ポイントを獲得してください。2N を読むと、強さの値が減少し、強さを回復するには RCM が必要になります.",
   "mint": "ミント",
@@ -259,6 +190,7 @@
   "photo": "写真",
   "pointAscension": "ポイント上昇",
   "prevChapter": "前",
+  "price": "‘価格’",
   "profit": "利益",
   "purchases": "購入",
   "quality": "品質",
@@ -287,6 +219,7 @@
   "rentStat": "{count} レンタル中、{mint} 鋳造済み",
   "rentTime": "レンタル時間",
   "rentalProfit": "賃貸収益",
+  "reset": "‘リセット’",
   "resilience": "Resilience",
   "restore": "戻す",
   "resurrectionMode": "復活モード",
