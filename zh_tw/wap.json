@@ -10,7 +10,8 @@
     "rule": "規則",
     "year": "新年快樂",
     "wlExchange": "兌換 WL",
-    "wlBox": "WL Box 抽奖活动"
+    "wlBox": "WL Box 抽奖活动",
+    "voteBook": ""
   },
   "events": {
     "notstart": "活動尚未開始",
@@ -18,7 +19,10 @@
     "btnText2": "報名結束",
     "btnText3": "查看結果",
     "applyText": "報名次數:",
-    "newYearApply": "報名人數:"
+    "newYearApply": "報名人數:",
+    "voteBtnText1": "去投票",
+    "voteBtnText2": "投票结束",
+    "voteBtnText3": "票選結果"
   },
   "stepn": {
     "title": "創世鞋用戶",
@@ -192,5 +196,19 @@
     "noJoinText": "對不起，您不符合參加活動的資格",
     "failTitle": "沒有抽中",
     "failText": "對不起，您沒有在本次活動中抽中WL Box"
+  },
+  "voteBook": {
+    "title": "每周",
+    "tip": "新書上線投票",
+    "voteText": "當前活動可參與次數",
+    "wcmDesc": "WCM: ",
+    "resultTitle": "票選結果",
+    "countDesc": "總票數: ",
+    "voteBtnText": "投票",
+    "voteTitle": "開始投票",
+    "sliderDesc": "已選擇: ",
+    "noSecectBook": "請選擇一本書進行投票",
+    "noAccessTitle": "提示",
+    "noAccess": "對不起，你已參與本次活動"
   }
 }
