@@ -12,7 +12,7 @@
     "wlExchange": "為替WL",
     "wcmwl": "WL/WCM 懸賞",
     "wlBox": "WL Box 懸賞",
-    "voteBook": ""
+    "voteBook": "のための投票"
   },
   "events": {
     "notstart": "イベントはまだ始まっていません",
@@ -199,9 +199,9 @@
     "tip": "新刊投票",
     "voteText": "参加できる人数",
     "wcmDesc": "WCM: ",
-    "resultTitle": "投票結果",
+    "resultTitle": "票決",
     "countDesc": "総投票数: ",
-    "voteBtnText": "投票",
+    "voteBtnText": "投票する",
     "voteTitle": "投票開始",
     "sliderDesc": "選ばれた: ",
     "noSecectBook": "投票する本を選んでください",
