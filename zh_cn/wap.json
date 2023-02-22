@@ -12,7 +12,8 @@
     "wlExchange": "兑换 WL",
     "wcmwl": "WL/WCM 抽奖活动",
     "wlBox": "WL Box 抽奖活动",
-    "voteBook": "选书投票"
+    "voteBook": "选书投票",
+    "wcmWlbox": "兑换 WL Box"
   },
   "events": {
     "notstart": "活动尚未开始",
@@ -122,7 +123,24 @@
     "tab3": "老用户",
     "discountUnit": "帮砍金额（RCM）",
     "tabNull": "暂无邀请",
-    "expired": "已过期"
+    "expired": "已过期",
+
+    "sendBtnText": "发红包",
+    "detailesText": "明细",
+    "numberEnvelopes": "红包个数",
+    "inputNumber": "请填写红包个数",
+    "countValidatorText": "红包数要大于 1",
+    "moneyValidatorText": "单个金额要大于0.001BNB",
+    "amountText": "单个金额",
+    "platformDesc": "平台收取30%手续费",
+    "walletDesc": "未领取的红包，将退还至钱包",
+    "envelopesDesc": "这个宝箱已经发了红包",
+    "recordText": "红包记录",
+    "detailText": "红包明细",
+    "collectionText": "红包详细",
+    "proptDesc": "如果没有被领取，红包将被退回到钱包",
+    "sendMoney": "塞币进红包",
+    "sendMoneyTitle": "发红包"
   },
   "newYear": {
     "title": "新年快乐",
@@ -210,5 +228,18 @@
     "noSecectBook": "请选择一本书进行投票",
     "noAccessTitle": "提示",
     "noAccess": "对不起，你已参与本次活动"
+  },
+  "wcmWlbox": {
+    "title": "WCM+RCM",
+    "tip": "兑换 WLBox",
+    "ruleContent": "用户可使用88wcm+388rcm兑换WL-Box。\r\n WL-Box限量100个，先到先得，换完即止。同一用户可以多次兑换。\r\n活动持续时间以Read2N官方通知为准。",
+    "wcmText": "活动剩余次数:",
+    "wcmDesc": "WCM: ",
+    "rcmDesc": "RCM: ",
+    "btnText": "兑换",
+    "exchangeTitle": "兑换",
+    "sliderDesc": "选择兑换次数",
+    "noWlBox": "对不起，所有的WL Box都已经被领取。",
+    "successText": "兑换成功"
   }
 }
