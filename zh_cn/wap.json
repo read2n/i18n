@@ -140,7 +140,8 @@
     "collectionText": "红包详细",
     "proptDesc": "如果没有被领取，红包将被退回到钱包",
     "sendMoney": "塞币进红包",
-    "sendMoneyTitle": "发红包"
+    "sendMoneyTitle": "发红包",
+    "noMoney": "账户余额不足"
   },
   "newYear": {
     "title": "新年快乐",

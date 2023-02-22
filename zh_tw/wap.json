@@ -140,7 +140,8 @@
     "collectionText": "紅包詳情",
     "proptDesc": "如果沒有被領取，紅包將被退回到錢包",
     "sendMoney": "塞幣進紅包",
-    "sendMoneyTitle": "發紅包"
+    "sendMoneyTitle": "發紅包",
+    "noMoney": "賬戶余額不足"
   },
   "newYear": {
     "title": "新年快樂",

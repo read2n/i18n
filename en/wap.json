@@ -140,7 +140,8 @@
     "collectionText": "Red envelope collection",
     "proptDesc": "If not received, it will be returned to the wallet",
     "sendMoney": "Send Red Envelopes",
-    "sendMoneyTitle": "Red Envelopes"
+    "sendMoneyTitle": "Red Envelopes",
+    "noMoney": "Account balance is insufficient."
   },
   "newYear": {
     "title": "Happy Chinese",
