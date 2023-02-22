@@ -12,7 +12,8 @@
     "wlExchange": "교환 WL",
     "wcmwl": "WL/WCM 경품 행사",
     "wlBox": "WL Box 경품 행사",
-    "voteBook": "책의 투표"
+    "voteBook": "책의 투표",
+    "wcmWlbox": "Exchange WL Box"
   },
   "events": {
     "notstart": "이벤트가 시작되지 않았습니다",
@@ -122,7 +123,24 @@
     "tab3": "이전 사용자",
     "discountUnit": "금액（RCM）",
     "tabNull": "초대장 없음",
-    "expired": "만료"
+    "expired": "만료",
+
+    "sendBtnText": "빨간 봉투",
+    "detailesText": "세부",
+    "numberEnvelopes": "수량",
+    "inputNumber": "번호를입력하세요",
+    "countValidatorText": "1보다 크다",
+    "moneyValidatorText": "0.001BNB 이상",
+    "amountText": "단일 금액",
+    "platformDesc": "수수료 30% 부과",
+    "walletDesc": "청구하지 않은 금액은 환불됩니다",
+    "envelopesDesc": "这个宝箱已经发了红包",
+    "recordText": "红包记录",
+    "detailText": "红包明细",
+    "collectionText": "红包详细",
+    "proptDesc": "如果没有被领取，红包将被退回到钱包",
+    "sendMoney": "塞币进红包",
+    "sendMoneyTitle": "发红包"
   },
   "newYear": {
     "title": "새해 소원",
@@ -210,5 +228,18 @@
     "noSecectBook": "투표할 책을 선택하세요",
     "noAccessTitle": "로고",
     "noAccess": "이 이벤트에 참여했습니다."
+  },
+  "wcmWlbox": {
+    "title": "WCM+RCM",
+    "tip": "Exchange WLBox",
+    "ruleContent": "Users can use 88wcm+388rcm to exchange for WL-Box. WL-Box is limited to 100 pieces, first come first served, while stocks last. \r\n The same user can redeem multiple times.\r\nThe duration of the event is subject to the official announcement of Read2N.",
+    "wcmText": "Number of Remaining Redemptions:",
+    "wcmDesc": "WCM: ",
+    "rcmDesc": "RCM: ",
+    "btnText": "Exchange",
+    "exchangeTitle": "Exchange",
+    "sliderDesc": "Select number of times.",
+    "noWlBox": "Sorry,all  WL Box have been released.",
+    "successText": "Exchange Success"
   }
 }

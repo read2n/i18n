@@ -131,7 +131,7 @@
     "inputNumber": "Number of Inputs",
     "countValidatorText": "At least 1 required.",
     "moneyValidatorText": "Cannot be less than 0.001.",
-    "amountText": "Single Amount",
+    "amountText": "Amount",
     "platformDesc": "The platform charges a 30% fee.",
     "walletDesc": "Unclaimed red packets will be returned to the wallet",
     "envelopesDesc": "Box Already Sent OUt the Red Envelope",
