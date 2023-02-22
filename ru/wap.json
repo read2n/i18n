@@ -12,7 +12,8 @@
     "wlExchange": "обмен WL",
     "wcmwl": "WL/WCM тотализаторы",
     "wlBox": "WL Box тотализаторы",
-    "voteBook": "Проголосуйте за книгу"
+    "voteBook": "Проголосуйте за книгу",
+    "wcmWlbox": "Exchange WL Box"
   },
   "events": {
     "notstart": "событие не началось",
@@ -210,5 +211,8 @@
     "noSecectBook": "Пожалуйста, выберите книгу для голосования",
     "noAccessTitle": "заглавие",
     "noAccess": "Вы участвовали в этом мероприятии"
+  },
+  "wcmWlbox": {
+    "ruleContent": "Users can use 88wcm+388rcm to exchange for WL-Box. WL-Box is limited to 100 pieces, first come first served, while stocks last. \r\n The same user can redeem multiple times.\r\nThe duration of the event is subject to the official announcement of Read2N."
   }
 }
