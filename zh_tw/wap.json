@@ -11,7 +11,8 @@
     "year": "新年快樂",
     "wlExchange": "兌換 WL",
     "wlBox": "WL Box 抽奖活动",
-    "voteBook": ""
+    "voteBook": "选书投票",
+    "wcmWlbox": "兌換 WL Box"
   },
   "events": {
     "notstart": "活動尚未開始",
@@ -122,7 +123,22 @@
     "tab3": "老用戶",
     "discountUnit": "幫砍金額（RCM）",
     "tabNull": "暫無邀請",
-    "expired": "已過期"
+    "expired": "已過期",
+
+    "sendBtnText": "發紅包",
+    "detailesText": "明細",
+    "numberEnvelopes": "紅包個數",
+    "inputNumber": "請填寫紅包個數",
+    "countValidatorText": "紅包數要大於 1",
+    "moneyValidatorText": "單個金額要大於 0.001BNB",
+    "amountText": "單個金額",
+    "platformDesc": "平臺收取30%手續費",
+    "walletDesc": "未領取的紅包，將退還至錢包",
+    "envelopesDesc": "這個寶箱已經發了紅包",
+    "recordText": "紅包記錄",
+    "detailText": "紅包明細",
+    "collectionText": "紅包詳情",
+    "proptDesc": "如果沒有被領取，紅包將被退回到錢包"
   },
   "newYear": {
     "title": "新年快樂",
@@ -210,5 +226,18 @@
     "noSecectBook": "請選擇一本書進行投票",
     "noAccessTitle": "提示",
     "noAccess": "對不起，你已參與本次活動"
+  },
+  "wcmWlbox": {
+    "title": "WCM+RCM",
+    "tip": "兌換 WLBox",
+    "ruleContent": "用戶可使用88wcm+388rcm兌換WL-Box。\r\n WL-Box限量100個，先到先得，換完即止。同一用戶可以多次兌換。\r\n活動持續時間以Read2N官方通知為準。",
+    "wcmText": "活動剩余次數:",
+    "wcmDesc": "WCM: ",
+    "rcmDesc": "RCM: ",
+    "btnText": "兌換",
+    "exchangeTitle": "兌換",
+    "sliderDesc": "選擇兌換次數",
+    "noWlBox": "對不起，所有的WL Box都已經被領取。",
+    "successText": "兌換成功"
   }
 }

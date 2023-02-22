@@ -12,7 +12,8 @@
     "wlExchange": "Exchange WL",
     "wcmwl": "WL/WCM Lottery",
     "wlBox": "WL Box Lottery",
-    "voteBook": "Vote Book"
+    "voteBook": "Vote Book",
+    "wcmWlbox": "Exchange WL Box"
   },
   "events": {
     "notstart": "Activity not started.",
@@ -122,7 +123,22 @@
     "tab3": "Old",
     "discountUnit": "group bargain",
     "tabNull": "no invitation yet",
-    "expired": "Expired"
+    "expired": "Expired",
+
+    "sendBtnText": "Red Envelopes",
+    "detailesText": "Detail",
+    "numberEnvelopes": "Number of",
+    "inputNumber": "Number of Inputs",
+    "countValidatorText": "At least 1 required.",
+    "moneyValidatorText": "Cannot be less than 0.001.",
+    "amountText": "Single Amount",
+    "platformDesc": "The platform charges a 30% fee.",
+    "walletDesc": "Unclaimed red packets will be returned to the wallet",
+    "envelopesDesc": "Box Already Sent OUt the Red Envelope",
+    "recordText": "Red Packet Record",
+    "detailText": "Red Envelopes Detail",
+    "collectionText": "Red envelope collection",
+    "proptDesc":"If not received, it will be returned to the wallet"
   },
   "newYear": {
     "title": "Happy Chinese",
@@ -210,5 +226,18 @@
     "noSecectBook": "Please select a book to vote on.",
     "noAccessTitle": "Prompt",
     "noAccess": "Sorry, you have already participated in this event"
+  },
+  "wcmWlbox": {
+    "title": "WCM+RCM",
+    "tip": "Exchange WLBox",
+    "ruleContent": "Users can use 88wcm+388rcm to exchange for WL-Box. WL-Box is limited to 100 pieces, first come first served, while stocks last. \r\n The same user can redeem multiple times.\r\nThe duration of the event is subject to the official announcement of Read2N.",
+    "wcmText": "Number of Remaining Redemptions:",
+    "wcmDesc": "WCM: ",
+    "rcmDesc": "RCM: ",
+    "btnText": "Exchange",
+    "exchangeTitle": "Exchange",
+    "sliderDesc": "Select number of times.",
+    "noWlBox": "Sorry,all  WL Box have been released.",
+    "successText": "Exchange Success"
   }
 }
