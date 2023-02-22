@@ -12,7 +12,8 @@
     "wlExchange": "為替WL",
     "wcmwl": "WL/WCM 懸賞",
     "wlBox": "WL Box 懸賞",
-    "voteBook": "のための投票"
+    "voteBook": "のための投票",
+    "wcmWlbox": "Exchange WL Box"
   },
   "events": {
     "notstart": "イベントはまだ始まっていません",
@@ -208,5 +209,18 @@
     "noAccessTitle": "敏速箱",
     "noAccess": "このイベントに参加しました  ",
     "voteRuleText": "1. 10冊の中から投票数の多かった3冊を選出し、来週発売予定。\r\n2.1 wcm は新しい本に投票する機会を表しており、投票数に制限はありません。\r\n3. WCM は、この投票活動に参加するための証明書としてのみ使用され、凍結または控除されることはありません。"
+  },
+  "wcmWlbox": {
+    "title": "WCM+RCM",
+    "tip": "Exchange WLBox",
+    "ruleContent": "Users can use 88wcm+388rcm to exchange for WL-Box. WL-Box is limited to 100 pieces, first come first served, while stocks last. \r\n The same user can redeem multiple times.\r\nThe duration of the event is subject to the official announcement of Read2N.",
+    "wcmText": "Number of Remaining Redemptions:",
+    "wcmDesc": "WCM: ",
+    "rcmDesc": "RCM: ",
+    "btnText": "Exchange",
+    "exchangeTitle": "Exchange",
+    "sliderDesc": "Select number of times.",
+    "noWlBox": "Sorry,all  WL Box have been released.",
+    "successText": "Exchange Success"
   }
 }
