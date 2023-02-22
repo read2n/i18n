@@ -138,7 +138,9 @@
     "recordText": "Red Packet Record",
     "detailText": "Red Envelopes Detail",
     "collectionText": "Red envelope collection",
-    "proptDesc":"If not received, it will be returned to the wallet"
+    "proptDesc": "If not received, it will be returned to the wallet",
+    "sendMoney": "Send Red Envelopes",
+    "sendMoneyTitle": "Red Envelopes"
   },
   "newYear": {
     "title": "Happy Chinese",
