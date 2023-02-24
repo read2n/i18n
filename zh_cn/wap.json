@@ -13,7 +13,8 @@
     "wcmwl": "WL/WCM 抽奖活动",
     "wlBox": "WL Box 抽奖活动",
     "voteBook": "选书投票",
-    "wcmWlbox": "兑换 WL Box"
+    "wcmWlbox": "兑换 WL Box",
+    "auctionBook": "竞拍 NFT"
   },
   "events": {
     "notstart": "活动尚未开始",
@@ -24,7 +25,10 @@
     "newYearApply": "报名人数:",
     "voteBtnText1": "去投票",
     "voteBtnText2": "投票结束",
-    "voteBtnText3": "票选结果"
+    "voteBtnText3": "票选结果",
+    "bidBtnText1": "去竞价",
+    "bidBtnText2": "竞价结束",
+    "bidBtnText3": "查看结果"
   },
   "stepn": {
     "title": "创世鞋用户",
@@ -242,5 +246,29 @@
     "sliderDesc": "选择兑换次数",
     "noWlBox": "对不起，所有的WL Box都已经被领取。",
     "successText": "兑换成功"
+  },
+  "auctionBook": {
+    "title": "WCM+RCM 竞拍",
+    "tip": "版权治理 NFT",
+    "ruleContent": "1.用户可以通过竞拍方式使用WCM+RCM获得版权治理NFT。每个用户在规定时间内可进行多次报价，不覆盖历史报价（即每次报价均有效）。\r\n2.每次竞拍需要25WCM，RCM数量则要求不低于150。报价取整数，RCM每次向上报价增加的数量最少为10。\r\n3.可修改当前报价（修改价格不能低于当前报价）。\r\n4.报价结束后，按照报价从高到底进行排名，前24名统一按照第24名的报价扣除相应代币。（根据后台配置的奖池的数量）。\r\n5.竞拍期间暂时锁定相应WCM和RCM，竞拍成功予以扣除，未竞拍成功则退还至账户。\r\n6. 活动结束时，赠予前10名每人50WCM  10-20名每人25WCM。",
+    "countDesc": "我的报价:",
+    "tab1": "总报价",
+    "tab2": "我的报价",
+    "setPriceTitle": "设置你的价格",
+    "platformDesc": "报价后直接扣除账户余额，未竞拍则退还账户",
+    "resultTitle": "竞拍结果",
+    "bidIdText": "排名",
+    "bidPriceText": "价格",
+    "bidAtText": "报价时间",
+    "bidderText": "用户",
+    "noSecectBook": "请选择一本书进行报价.",
+    "noNft": "对不起,所有的NFT已经发完",
+    "priceError": "报价过低，请重新报价.",
+    "AuctionSuccessText": "报价成功，请等待竞拍结果",
+    "failTitle": "Didn't win",
+    "failText": "对不起，这次没有竞拍中NFT,您可以等待下一次新书的发布。.",
+    "btnText": "报价",
+    "btnText2": "报价结束",
+    "btnText3": "查看结果"
   }
 }
