@@ -13,7 +13,8 @@
     "wcmwl": "WL/WCM 경품 행사",
     "wlBox": "WL Box 경품 행사",
     "voteBook": "책의 투표",
-    "wcmWlbox": "Exchange WL Box"
+    "wcmWlbox": "Exchange WL Box",
+    "auctionBook": "Bidding NFT"
   },
   "events": {
     "notstart": "이벤트가 시작되지 않았습니다",
@@ -24,7 +25,10 @@
     "newYearApply": "지원자 수:",
     "voteBtnText1": "투표하다",
     "voteBtnText2": "투표종료",
-    "voteBtnText3": "투표결과"
+    "voteBtnText3": "투표결과",
+    "bidBtnText1": "To Bidding",
+    "bidBtnText2": "Bidding Ends",
+    "bidBtnText3": "View Result"
   },
   "stepn": {
     "title": "창세기유저",
@@ -241,5 +245,29 @@
     "sliderDesc": "Select number of times.",
     "noWlBox": "Sorry,all  WL Box have been released.",
     "successText": "Exchange Success"
+  },
+  "auctionBook": {
+    "title": "WCM+RCM",
+    "tip": "Bid on NFT",
+    "ruleContent": "1. users can use WCM+RCM to obtain copyright governance NFT through bidding. each user can make multiple offers within the specified time, without covering historical offers (i.e. each offer is valid). \r\n 2. 25 WCM is required for each bid, and the number of RCM is required to be no less than 150. quotes are rounded up to the nearest whole number, and the number of RCM increases by a minimum of 10 for each upward quote. \r\n 3. The current offer can be modified (the modified price cannot be lower than the current offer). \r\n 4. After the end of the offer, the top 24 will be ranked according to the offer from the highest to the lowest, and the corresponding tokens will be deducted according to the offer of the 24th place. (According to the number of prize pools configured in the background). \r\n 5. During the bidding period, the corresponding WCM and RCM will be temporarily locked, and will be deducted if the bidding is successful, and refunded to the account if the bidding is not successful.\r\n 6. At the end of the event, 50 WCM will be given to each of the first 10 people and 25 WCM to each of the 10-20 people.",
+    "countDesc": "My Quotations",
+    "tab1": "All Quotes",
+    "tab2": "My Quotes",
+    "setPriceTitle": "Set Your Price",
+    "platformDesc": "Deduct from balance, return if not successful",
+    "resultTitle": "Bidding Result",
+    "bidIdText": "Rank",
+    "bidPriceText": "Price",
+    "bidAtText": "Time",
+    "bidderText": "User",
+    "noSecectBook": "Bid on a book selection.",
+    "noNft": "Sorry, all NFTs for this book have been released.",
+    "priceError": "The offer is too low.",
+    "AuctionSuccessText": "Offer Successfully Submitted, Awaiting Result",
+    "failTitle": "Didn't win",
+    "failText": " The NFT was not drawn this time, you can wait for the new book to be released next time.",
+    "btnText": "Bidding",
+    "btnText2": "Bidding Ends",
+    "btnText3": "View Results"
   }
 }
