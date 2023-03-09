@@ -13,7 +13,8 @@
     "wlBox": "WL Box 抽奖活动",
     "voteBook": "选书投票",
     "wcmWlbox": "兌換 WL Box",
-    "auctionBook": "競拍 NFT"
+    "auctionBook": "競拍 NFT",
+    "suggestion": "用戶體驗調研"
   },
   "events": {
     "notstart": "活動尚未開始",
@@ -270,5 +271,21 @@
     "btnText": "報價",
     "btnText2": "報價結束",
     "btnText3": "查看結果"
+  },
+  "suggestion": {
+    "title": "產品用戶體驗",
+    "tip": "調研",
+    "ruleContent": "1.用戶可使用WCM參與產品體驗調研投票。每個WCM可投出一次贊成票或反對票，不限製投票次數。（WCM僅作為投票憑證，不被凍結或扣除）\r\n\n2.調研投票結果將予以展示，項目方將根據投票排名順序進行參考。",
+    "voteText": "當前活動可參與次數",
+    "wcmDesc": "WCM: ",
+    "resultTitle": "調研結果",
+    "yesText": "通過票數: ",
+    "noText": "反對票數: ",
+    "detailText": "詳細信息:",
+    "yesBtnText": "贊成",
+    "noBtnText": "反對",
+    "noAccessTitle": "",
+    "noAccess": "對不起,您已經參與過本次調研",
+    "noWcmText": "對不起,您的WCM不足"
   }
 }

@@ -14,7 +14,8 @@
     "wlBox": "WL Box Lottery",
     "voteBook": "Vote Book",
     "wcmWlbox": "Exchange WL Box",
-    "auctionBook": "Bidding NFT"
+    "auctionBook": "Bidding NFT",
+    "suggestion": "Product Feature Voting"
   },
   "events": {
     "notstart": "Activity not started.",
@@ -270,5 +271,21 @@
     "btnText": "Bidding",
     "btnText2": "Bidding Ends",
     "btnText3": "View Results"
+  },
+  "suggestion": {
+    "title": "Product Feature ",
+    "tip": "Voting",
+    "ruleContent": "1. Users can use WCM to participate in product experience research and voting. Each WCM can vote for or against once, and there is no limit to the number of votes. (WCM is only used as a voting voucher and will not be frozen or deducted) \r\n\r\n2. The survey voting results will be displayed, and the project team will refer to them according to the voting ranking order.",
+    "voteText": "Event Remaining Votes",
+    "wcmDesc": "WCM: ",
+    "resultTitle": "Survey results",
+    "yesText": "positive vote: ",
+    "noText": "negative vote: ",
+    "detailText": "Detailed Information:",
+    "yesBtnText": "Support",
+    "noBtnText": "Against",
+    "noAccessTitle": "",
+    "noAccess": "Sorry, you have already participated in this event",
+    "noWcmText": "Sorry, you do not have enough WCM to participate in this event"
   }
 }
