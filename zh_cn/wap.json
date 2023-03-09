@@ -14,7 +14,8 @@
     "wlBox": "WL Box 抽奖活动",
     "voteBook": "选书投票",
     "wcmWlbox": "兑换 WL Box",
-    "auctionBook": "竞拍 NFT"
+    "auctionBook": "竞拍 NFT",
+    "suggestion": "产品调研投票"
   },
   "events": {
     "notstart": "活动尚未开始",
@@ -270,5 +271,21 @@
     "btnText": "报价",
     "btnText2": "报价结束",
     "btnText3": "查看结果"
+  },
+  "suggestion": {
+    "title": "产品用户体验",
+    "tip": "调研",
+    "ruleContent": "1.用户可使用WCM参与产品体验调研投票。每个WCM可投出一次赞成票或反对票，不限制投票次数。（WCM仅作为投票凭证，不被冻结或扣除）\r\n\n2.调研投票结果将予以展示，项目方将根据投票排名顺序进行参考。",
+    "voteText": "当前活动可参与次数",
+    "wcmDesc": "WCM: ",
+    "resultTitle": "调研结果",
+    "yesText": "通过票数:",
+    "noText": "反对票数:",
+    "detailText": "详细信息",
+    "yesBtnText": "赞成",
+    "noBtnText": "反对",
+    "noAccessTitle": "",
+    "noAccess": "对不起,您已经参与过本次调研",
+    "noWcmText": "对不起,您的WCM不足"
   }
 }
