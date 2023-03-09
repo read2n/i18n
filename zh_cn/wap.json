@@ -15,7 +15,7 @@
     "voteBook": "选书投票",
     "wcmWlbox": "兑换 WL Box",
     "auctionBook": "竞拍 NFT",
-    "suggestion": "产品调研投票"
+    "suggestion": "用户体验调研"
   },
   "events": {
     "notstart": "活动尚未开始",
@@ -279,9 +279,9 @@
     "voteText": "当前活动可参与次数",
     "wcmDesc": "WCM: ",
     "resultTitle": "调研结果",
-    "yesText": "通过票数:",
-    "noText": "反对票数:",
-    "detailText": "详细信息",
+    "yesText": "通过票数: ",
+    "noText": "反对票数: ",
+    "detailText": "详细信息:",
     "yesBtnText": "赞成",
     "noBtnText": "反对",
     "noAccessTitle": "",
