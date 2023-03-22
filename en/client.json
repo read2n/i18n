@@ -185,6 +185,7 @@
   "normal": "Normal",
   "normalMode": "Normal Mode",
   "noviceMode": "Novice mode",
+  "numberOfBooks": "{count, plural, =0{no Books} =1{1 Book} other{{count} Books}}",
   "numberOfMints": "Number of mints",
   "open": "Open",
   "openLootBox": "Open Loot Box",
