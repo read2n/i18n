@@ -15,7 +15,8 @@
     "voteBook": "Проголосуйте за книгу",
     "wcmWlbox": "Exchange WL Box",
     "auctionBook": "Bidding NFT",
-    "suggestion": "Product Feature Voting"
+    "suggestion": "Product Feature Voting",
+    "bnbLottery": "BNB Lottery"
   },
   "events": {
     "notstart": "событие не началось",
@@ -259,5 +260,24 @@
     "noAccessTitle": "",
     "noAccess": "Sorry, you have already participated in this event",
     "noWcmText": "Sorry, you do not have enough WCM to participate in this event"
+  },
+  "bnbLottery": {
+    "title": "The Devil's Cave",
+    "tip": "Лотерея",
+    "ruleContent": "1.Пользователи могут участвовать в лотерее, потратив 1 RCM за каждую попытку. Каждый пользователь может участвовать не более 5 раз.\r\n 2.Первый приз - 0,7 BNB для одного победителя, второй приз - 0,2 BNB для одного победителя, третий приз - 0,1 BNB для одного победителя. Победители первого и второго приза должны быть владельцами NFT из 'Магического подземелья'. Никаких ограничений для победителей третьего приза.",
+    "bnbApplyTitle": "Регистрация на лотерею",
+    "sliderDesc": "Выбраны шансы на лотерею RCM:",
+    "award0": "Первый приз",
+    "award1": "Второй приз",
+    "award2": "Третий приз",
+    "btnText": "Регистрация",
+    "btnText2": "Регистрация закончена",
+    "btnText3": "Просмотр результатов",
+    "noAccessTitle": "ННет доступа",
+    "noAccess": "Извините, проверьте, достаточно ли у вас RCM на счету",
+    "successTitle": "Успешно подана заявка",
+    "successText": "Регистрация прошла успешно, ожидайте результаты лотереи",
+    "failTitle": "Didn't win",
+    "failText": "Извините, вы не выиграли"
   }
 }
