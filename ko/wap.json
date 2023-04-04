@@ -291,7 +291,7 @@
   "bnbLottery": {
     "title": "The Devil's Cave",
     "tip": "Sweepstakes",
-    "ruleContent": "...",
+    "ruleContent": "1. Users can participate in the lottery by consuming 1RCM, and each user can participate up to 5 times.\r\n2. One first prize will receive 0.7BNB, one second prize will receive 0.2BNB, and one third prize will receive 0.1BNB. The winners of the first prize and the second prize must be NFT holders of 'The Devil's Cave'. There is no limit to the third prize.",
     "bnbApplyTitle": "Apply Lucky draw",
     "sliderDesc": "Number of RCM Registrations:",
     "award0": "First Prize",
