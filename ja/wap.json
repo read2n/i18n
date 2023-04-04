@@ -15,7 +15,8 @@
     "voteBook": "のための投票",
     "wcmWlbox": "Exchange WL Box",
     "auctionBook": "Bidding NFT",
-    "suggestion": "Product Feature Voting"
+    "suggestion": "Product Feature Voting",
+    "bnbLottery": "抽選イベント"
   },
   "events": {
     "notstart": "イベントはまだ始まっていません",
@@ -271,5 +272,25 @@
     "noAccessTitle": "",
     "noAccess": "Sorry, you have already participated in this event",
     "noWcmText": "Sorry, you do not have enough WCM to participate in this event"
+  },
+  "bnbLottery": {
+    "title": "《魔窟》",
+    "tip": "抽選イベント",
+    "ruleContent": "1.ユーザーは1RCMを消費して抽選に参加できます。ユーザー1人あたり最大5回参加できます。\r\n2. 1等賞1名、0.7BNBを獲得。2等賞1名、0.2BNBを獲得。3等賞1名、0.1BNBを獲得。1等賞と2等賞の当選者は「魔窟」NFTの所有者である必要があります。3等賞には制限はありません。",
+    "bnbApplyTitle": "抽選に応募する",
+    "sliderDesc": "RCMの抽選機会を選択済み：",
+    "award0": "一等賞",
+    "award1": "二等賞",
+    "award2": "三等賞",
+    "btnText": "申し込み",
+    "btnText2": "応募終了",
+    "btnText3": "結果を見る",
+    "noAccessTitle": "非アクティブユーザー",
+    "noAccess": "申し訳ありませんが、アカウントに十分なRCMがあるかどうか確認してください。",
+    "successTitle": "申請が完了しました",
+    "successText": "応募が完了しました。抽選結果をお待ちください。",
+    "failTitle": "Didn't win",
+    "failText": "申し訳ありませんが、あなたは当選されていません。",
+    "rcmDesc": "私の申し込み: "
   }
 }

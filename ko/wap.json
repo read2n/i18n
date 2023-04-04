@@ -15,7 +15,8 @@
     "voteBook": "책의 투표",
     "wcmWlbox": "Exchange WL Box",
     "auctionBook": "Bidding NFT",
-    "suggestion": "Product Feature Voting"
+    "suggestion": "Product Feature Voting",
+    "bnbLottery": "추첨 행사"
   },
   "events": {
     "notstart": "이벤트가 시작되지 않았습니다",
@@ -286,5 +287,25 @@
     "noAccessTitle": "",
     "noAccess": "Sorry, you have already participated in this event",
     "noWcmText": "Sorry, you do not have enough WCM to participate in this event"
+  },
+  "bnbLottery": {
+    "title": "《마귀굴》",
+    "tip": "추첨 행사",
+    "ruleContent": "1.사용자는 1RCM을 소비하여 추첨에 참여할 수 있으며, 각 사용자는 최대 5회 참여할 수 있습니다 /r/n 2.일등상 한 개, 0.7BNB를 받게 됩니다. 이등상 한 개, 0.2BNB를 받게 됩니다. 삼등상 한 개, 0.1BNB를 받게 됩니다. 일등상과 이등상 수상자는 '마귀굴' NFT 소유자여야 합니다. 삼등상은 제한이 없습니다.",
+    "bnbApplyTitle": "추첨 응모",
+    "sliderDesc": "RCM 추첨 기회를 선택했습니다:",
+    "award0": "일등상",
+    "award1": "이등상",
+    "award2": "삼등상",
+    "btnText": "응모",
+    "btnText2": "응모 마감",
+    "btnText3": "결과 확인 ",
+    "noAccessTitle": "비활동 사용자",
+    "noAccess": "죄송합니다, 계정에 충분한 RCM이 있는지 확인해주세요.",
+    "successTitle": "신청이 완료되었습니다",
+    "successText": "응모가 완료되었습니다. 추첨 결과를 기다려주세요.",
+    "failTitle": "Didn't win",
+    "failText": "죄송합니다, 당첨되지 않으셨습니다.",
+    "rcmDesc": "나의 응모: "
   }
 }
