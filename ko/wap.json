@@ -15,7 +15,8 @@
     "voteBook": "책의 투표",
     "wcmWlbox": "Exchange WL Box",
     "auctionBook": "Bidding NFT",
-    "suggestion": "Product Feature Voting"
+    "suggestion": "Product Feature Voting",
+    "bnbLottery": "BNB Lottery"
   },
   "events": {
     "notstart": "이벤트가 시작되지 않았습니다",
@@ -286,5 +287,24 @@
     "noAccessTitle": "",
     "noAccess": "Sorry, you have already participated in this event",
     "noWcmText": "Sorry, you do not have enough WCM to participate in this event"
+  },
+  "bnbLottery": {
+    "title": "The Devil's Cave",
+    "tip": "Sweepstakes",
+    "ruleContent": "...",
+    "bnbApplyTitle": "Apply Lucky draw",
+    "sliderDesc": "Number of RCM Registrations:",
+    "award0": "First Prize",
+    "award1": "Second Prize",
+    "award2": "Third Prize",
+    "btnText": "Apply",
+    "btnText2": "Apply Ends",
+    "btnText3": "View Results",
+    "noAccessTitle": "Not Eligible",
+    "noAccess": "Sorry, Please check if your account has RCM.",
+    "successTitle": "Apply Success",
+    "successText": "Apply successfully, please wait for the lottery result",
+    "failTitle": "Didn't win",
+    "failText": "sorry, you did not win the prize in this event."
   }
 }

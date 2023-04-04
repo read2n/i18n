@@ -15,7 +15,8 @@
     "voteBook": "选书投票",
     "wcmWlbox": "兑换 WL Box",
     "auctionBook": "竞拍 NFT",
-    "suggestion": "用户体验调研"
+    "suggestion": "用户体验调研",
+    "bnbLottery": "抽奖活动"
   },
   "events": {
     "notstart": "活动尚未开始",
@@ -287,5 +288,24 @@
     "noAccessTitle": "",
     "noAccess": "对不起,您已经参与过本次调研",
     "noWcmText": "对不起,您的WCM不足"
+  },
+  "bnbLottery": {
+    "title": "《魔窟》",
+    "tip": "抽奖活动",
+    "ruleContent": "1.用户可通过消耗1RCM参与抽奖，每个用户最多参与5次。\r\n2.一等奖一位，将获得0.7BNB，二等奖一位，将获得0.2BNB，三等奖一位，将获得0.1BNB。其中一等奖和二等奖中奖者必须为《魔窟》NFT持有者。三等奖不做限制。",
+    "bnbApplyTitle": "报名抽奖",
+    "sliderDesc": "已选择RCM抽奖机会:",
+    "award0": "一等奖",
+    "award1": "二等奖",
+    "award2": "三等奖",
+    "btnText": "报名",
+    "btnText2": "报名结束",
+    "btnText3": "查看结果",
+    "noAccessTitle": "非活动用户",
+    "noAccess": "对不起,请检查账户是否有足够的RCM",
+    "successTitle": "申请成功",
+    "successText": "报名成功，请等待抽奖结果",
+    "failTitle": "Didn't win",
+    "failText": "抱歉,您未中奖"
   }
 }
