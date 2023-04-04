@@ -306,6 +306,7 @@
     "successTitle": "Apply Success",
     "successText": "Apply successfully, please wait for the lottery result",
     "failTitle": "Didn't win",
-    "failText": "sorry, you did not win the prize in this event."
+    "failText": "sorry, you did not win the prize in this event.",
+    "rcmDesc": "My registration: "
   }
 }

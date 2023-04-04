@@ -306,6 +306,7 @@
     "successTitle": "申请成功",
     "successText": "报名成功，请等待抽奖结果",
     "failTitle": "Didn't win",
-    "failText": "抱歉,您未中奖"
+    "failText": "抱歉,您未中奖",
+    "rcmDesc": "我的报名: "
   }
 }
