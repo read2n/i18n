@@ -16,7 +16,7 @@
     "wcmWlbox": "Exchange WL Box",
     "auctionBook": "Bidding NFT",
     "suggestion": "Product Feature Voting",
-    "bnbLottery": "BNB Lottery"
+    "bnbLottery": "抽選イベント"
   },
   "events": {
     "notstart": "イベントはまだ始まっていません",
@@ -274,22 +274,23 @@
     "noWcmText": "Sorry, you do not have enough WCM to participate in this event"
   },
   "bnbLottery": {
-    "title": "The Devil's Cave",
-    "tip": "Sweepstakes",
-    "ruleContent": "1. Users can participate in the lottery by consuming 1RCM, and each user can participate up to 5 times.\r\n2. One first prize will receive 0.7BNB, one second prize will receive 0.2BNB, and one third prize will receive 0.1BNB. The winners of the first prize and the second prize must be NFT holders of 'The Devil's Cave'. There is no limit to the third prize.",
-    "bnbApplyTitle": "Apply Lucky draw",
-    "sliderDesc": "Number of RCM Registrations:",
-    "award0": "First Prize",
-    "award1": "Second Prize",
-    "award2": "Third Prize",
-    "btnText": "Apply",
-    "btnText2": "Apply Ends",
-    "btnText3": "View Results",
-    "noAccessTitle": "Not Eligible",
-    "noAccess": "Sorry, Please check if your account has RCM.",
-    "successTitle": "Apply Success",
-    "successText": "Apply successfully, please wait for the lottery result",
+    "title": "《魔窟》",
+    "tip": "抽選イベント",
+    "ruleContent": "1.ユーザーは1RCMを消費して抽選に参加できます。ユーザー1人あたり最大5回参加できます。\r\n2. 1等賞1名、0.7BNBを獲得。2等賞1名、0.2BNBを獲得。3等賞1名、0.1BNBを獲得。1等賞と2等賞の当選者は「魔窟」NFTの所有者である必要があります。3等賞には制限はありません。",
+    "bnbApplyTitle": "抽選に応募する",
+    "sliderDesc": "RCMの抽選機会を選択済み：",
+    "award0": "一等賞",
+    "award1": "二等賞",
+    "award2": "三等賞",
+    "btnText": "申し込み",
+    "btnText2": "応募終了",
+    "btnText3": "結果を見る",
+    "noAccessTitle": "非アクティブユーザー",
+    "noAccess": "申し訳ありませんが、アカウントに十分なRCMがあるかどうか確認してください。",
+    "successTitle": "申請が完了しました",
+    "successText": "応募が完了しました。抽選結果をお待ちください。",
     "failTitle": "Didn't win",
-    "failText": "sorry, you did not win the prize in this event."
+    "failText": "申し訳ありませんが、あなたは当選されていません。",
+    "rcmDesc": "私の申し込み: "
   }
 }
