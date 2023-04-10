@@ -306,6 +306,7 @@
     "successTitle": "申請成功",
     "successText": "報名成功，請等待抽獎結果",
     "failTitle": "Didn't win",
-    "failText": "抱歉,您未中獎"
+    "failText": "抱歉,您未中獎",
+    "rcmDesc": "我的報名: "
   }
 }
