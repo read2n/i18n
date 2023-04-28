@@ -178,7 +178,7 @@
   "leasing": "Сдается",
   "level": "Уровень",
   "link": "ссылка",
-  "listedAndTotalBNfts": "В продаже/Сминченные предметы",
+  "listedAndMintedItems": "В продаже/Сминченные предметы",
   "loading": "Загрузка...",
   "loginCheckIAgree": "Я согласен с Read2N's ",
   "loginCheckPrivacyPolicy": "Политика конфиденциальности",
