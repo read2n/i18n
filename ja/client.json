@@ -157,7 +157,7 @@
   "hintEnterPrice": "価格を入力してください",
   "hintInputNickname": "ニックネームを入力してください",
   "hintInputPassword": "パスワードを入力してください",
-  "hintRepairResilienceLoss": "レジリエンスの損失値は賃貸収入に影響します。時間内に修正してください",
+  "hintRepairResilienceLoss": "スタミナの損失は RCT の収入に影響します。時間内に修正してくださいスタミナの損失は RCT の収入に影響します。時間内に修正してください",
   "hintRepairStrength": "強さは読書収入に影響します。時間内に修復することを忘れないでください",
   "hintResurrectionUpgradeCover": "失敗した後、ブックカバーを回収して再度アップグレードできます",
   "hintResurrectionUpgradeScroll": "失敗後に巻物を救出し、再度キャストする",

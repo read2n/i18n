@@ -157,7 +157,7 @@
   "hintEnterPrice": "Please enter the price",
   "hintInputNickname": "Please input nickname",
   "hintInputPassword": "please input password",
-  "hintRepairResilienceLoss": "Resilience loss value will affect your rental income, please fix it in time",
+  "hintRepairResilienceLoss": "Strength depletion may affect your RCT earnings. It is recommended to repair promptly.",
   "hintRepairStrength": "Strength will affect your reading income, remember to repair it in time",
   "hintResurrectionUpgradeCover": "After failure, you can salvage the book cover and upgrade it again",
   "hintResurrectionUpgradeScroll": "Rescue the scroll after failure and cast it again",
