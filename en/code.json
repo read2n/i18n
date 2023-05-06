@@ -40,6 +40,8 @@
   "1230": "Google verification code is bound",
   "1231": "Google verification failed",
   "1232": "Google verification code has not been bound",
+  "1233": "Shorten time over limit",
+  "1234": "Account upgrade has been completed",
   "1301": "Book does not exist",
   "1302": "There is no such book in the current account, please buy/rent first",
   "1303": "Inoperable",
