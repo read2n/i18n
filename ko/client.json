@@ -183,6 +183,8 @@
   "latest": "최신",
   "launchpad": "새 책",
   "launchpadScroll": "새 책 두루마리",
+  "lctLeaseNumber": "LCT+% (대여시간)",
+  "lctLeaseTime": "LCT+% (대여시간)",
   "lctLeaseTimeAndNumber": "LCT+% (대여시간/수량)",
   "lease": "빌리다",
   "leaseComputlity": "임대 컴퓨팅 파워(LCT)",

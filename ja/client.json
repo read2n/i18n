@@ -183,6 +183,8 @@
   "latest": "最新",
   "launchpad": "新しい本",
   "launchpadScroll": "新しい本の巻物",
+  "lctLeaseNumber": "LCT+% (リース時間)",
+  "lctLeaseTime": "LCT+% (リース時間)",
   "lctLeaseTimeAndNumber": "LCT+% (リース時間/数量)",
   "lease": "家賃",
   "leaseComputlity": "レンタルコンピューティングパワー (LCT)",

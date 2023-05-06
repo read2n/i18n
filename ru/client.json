@@ -183,6 +183,8 @@
   "latest": "Последний",
   "launchpad": "новая книга",
   "launchpadScroll": "свиток новой книги",
+  "lctLeaseNumber": "LCT+% (время аренды)",
+  "lctLeaseTime": "LCT+% (время аренды)",
   "lctLeaseTimeAndNumber": "LCT+% (время аренды/количество)",
   "lease": "занимать",
   "leaseComputlity": "Аренда вычислительной мощности (LCT)",
