@@ -487,6 +487,7 @@
   "totalRcmProduction": "Общее производство RCM (вчера)",
   "totalRead2nRct": "Всего Read2N RCT (24 ч)",
   "totalRentalReceipts": "Валовой доход от аренды (вчера)",
+  "totalTradeAmount": "Общая сумма сделки",
   "totalValueBnb": "Общая стоимость (BNB)",
   "totalVolume": "Общий объем",
   "trade": "торговля",

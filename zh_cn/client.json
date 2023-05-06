@@ -487,6 +487,7 @@
   "totalRcmProduction": "RCM总产量（昨日）",
   "totalRead2nRct": "总Read2N RCT（24h）",
   "totalRentalReceipts": "总租金收入（昨日）",
+  "totalTradeAmount": "总交易量",
   "totalValueBnb": "总价值(BNB)",
   "totalVolume": "总价值",
   "trade": "交易",

@@ -487,6 +487,7 @@
   "totalRcmProduction": "총 RCM 생산량(어제)",
   "totalRead2nRct": "총 Read2N RCT(24시간)",
   "totalRentalReceipts": "총임대수입(어제)",
+  "totalTradeAmount": "총 거래 금액",
   "totalValueBnb": "총 가치(BNB)",
   "totalVolume": "총 가치",
   "trade": "거래",

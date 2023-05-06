@@ -484,6 +484,7 @@
   "totalRcmProduction": "Gesamte RCM-Produktion (gestern)",
   "totalRead2nRct": "Gesamte Read2N RCT (24h)",
   "totalRentalReceipts": "Bruttomieteinnahmen (gestern)",
+  "totalTradeAmount": "Gesamter Handelsbetrag",
   "totalValueBnb": "Gesamtwert (BNB)",
   "totalVolume": "Gesamtwert",
   "trade": "handeln",
