@@ -16,7 +16,8 @@
     "wcmWlbox": "Exchange WL Box",
     "auctionBook": "Bidding NFT",
     "suggestion": "Product Feature Voting",
-    "bnbLottery": "抽選イベント"
+    "bnbLottery": "抽選イベント",
+    "eventNotice": "Event Notice"
   },
   "events": {
     "notstart": "イベントはまだ始まっていません",
@@ -292,5 +293,15 @@
     "failTitle": "Didn't win",
     "failText": "申し訳ありませんが、あなたは当選されていません。",
     "rcmDesc": "私の申し込み: "
+  },
+  "eventNotice": {
+    "title": "Event",
+    "tip": "Notification",
+    "author": "Author Name : ",
+    "time": "Event Time : ",
+    "bookName": "Event book : ",
+    "desc": "Event Content : ",
+    "rule": "Event Rule : ",
+    "reward": "Event Reward :"
   }
 }
