@@ -312,7 +312,7 @@
   },
   "eventNotice": {
     "title": "活动通知",
-    "tip": "",
+    "tip": "  ",
     "author": "作  者 : ",
     "time": "活动时间 : ",
     "bookName": "活动书籍 : ",
