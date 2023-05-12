@@ -311,9 +311,9 @@
     "rcmDesc": "我的報名: "
   },
   "eventNotice": {
-    "title": "活動",
-    "tip": "通知",
-    "author": "作 者 : ",
+    "title": "活動通知",
+    "tip": "  ",
+    "author": "作  者 : ",
     "time": "活動時間 : ",
     "bookName": "活動書籍 : ",
     "desc": "活動內容 : ",
