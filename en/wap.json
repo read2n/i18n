@@ -16,7 +16,8 @@
     "wcmWlbox": "Exchange WL Box",
     "auctionBook": "Bidding NFT",
     "suggestion": "Product Feature Voting",
-    "bnbLottery": "BNB Lottery"
+    "bnbLottery": "BNB Lottery",
+    "eventNotice": "Event Notice"
   },
   "events": {
     "notstart": "Activity not started.",
@@ -308,5 +309,15 @@
     "failTitle": "Didn't win",
     "failText": "sorry, you did not win the prize in this event.",
     "rcmDesc": "My registration: "
+  },
+  "eventNotice": {
+    "title": "Event",
+    "tip": "Notification",
+    "author": "Author Name : ",
+    "time": "Event Time : ",
+    "bookName": "Event book : ",
+    "desc": "Event Content : ",
+    "rule": "Event Rule : ",
+    "reward": "Event Reward :"
   }
 }

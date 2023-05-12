@@ -16,7 +16,8 @@
     "wcmWlbox": "兑换 WL Box",
     "auctionBook": "竞拍 NFT",
     "suggestion": "用户体验调研",
-    "bnbLottery": "抽奖活动"
+    "bnbLottery": "抽奖活动",
+    "eventNotice": "活动通知"
   },
   "events": {
     "notstart": "活动尚未开始",
@@ -308,5 +309,15 @@
     "failTitle": "Didn't win",
     "failText": "抱歉,您未中奖",
     "rcmDesc": "我的报名: "
+  },
+  "eventNotice": {
+    "title": "活动",
+    "tip": "通知",
+    "author": "作 者 : ",
+    "time": "活动时间 : ",
+    "bookName": "活动书籍 : ",
+    "desc": "活动内容 : ",
+    "rule": "活动规则 : ",
+    "reward": "奖品发放 :"
   }
 }
