@@ -147,5 +147,13 @@
   "2002": "Anda telah menggambar atau tidak menggambar lagi",
   "2003": "Anda tidak memiliki izin",
   "2004": "Tidak ada NFT untuk lotre",
-  "2005": "Pengundian undian gagal"
+  "2005": "Pengundian undian gagal",
+  "2200": "Inft sedang dalam proses migrasi data",
+  "2201": "Kekuatan Inft tidak penuh",
+  "2202": "Inft sedang digunakan untuk membaca dan farming",
+  "2203": "Hadiah membaca dan farming Inft belum dibebaskan",
+  "2204": "Inft sedang dijual",
+  "2205": "Inft tidak ada",
+  "2206": "Peningkatan Inft telah selesai",
+  "2207": "Inft sedang dalam proses peningkatan"
 }

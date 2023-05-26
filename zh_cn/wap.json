@@ -17,7 +17,8 @@
     "auctionBook": "竞拍 NFT",
     "suggestion": "用户体验调研",
     "bnbLottery": "抽奖活动",
-    "eventNotice": "活动通知"
+    "eventNotice": "活动通知",
+    "auctionWlBox": "竞拍 WL Box"
   },
   "events": {
     "notstart": "活动尚未开始",
@@ -270,6 +271,30 @@
     "AuctionSuccessText": "报价成功，请等待竞拍结果",
     "failTitle": "Didn't win",
     "failText": "对不起，这次没有竞拍中NFT,您可以等待下一次新书的发布。.",
+    "btnText": "报价",
+    "btnText2": "报价结束",
+    "btnText3": "查看结果"
+  },
+  "auctionWlBox": {
+    "title": "RCM 竞拍",
+    "tip": "WL-Box",
+    "ruleContent": "1.用户可以通过竞拍方式使用RCM获得WL Box。每个用户在规定时间内可进行多次报价，不覆盖历史报价（即每次报价均有效）。 \r\n\r\n2.竞拍起始RCM数量则要求不低于400。报价取整数，RCM每次向上报价增加的数量最少为10。 \r\n\r\n 3.可修改当前报价（修改价格不能低于当前报价）。 \r\n\r\n 4.报价结束后，按照报价从高到低进行排名，前50名统一按照第50名的报价扣除相应代币。 \r\n\r\n 5.竞拍期间暂时锁定相应RCM，竞拍成功予以扣除，未竞拍成功则退还至账户。\r\n\r\n  6. 活动结束时，赠予前10名每人50WCM 10-30名每人25WCM。 ",
+    "countDesc": "我的报价:",
+    "tab1": "总报价",
+    "tab2": "我的报价",
+    "setPriceTitle": "设置你的价格",
+    "platformDesc": "报价后直接扣除账户余额，未竞拍则退还账户",
+    "resultTitle": "竞拍结果",
+    "bidIdText": "排名",
+    "bidPriceText": "价格",
+    "bidAtText": "报价时间",
+    "bidderText": "用户",
+    "noSecectBook": "请选择一本书进行报价.",
+    "noNft": "对不起,所有的WL Box已经发完",
+    "priceError": "报价过低，请重新报价.",
+    "AuctionSuccessText": "报价成功，请等待竞拍结果",
+    "failTitle": "Didn't win",
+    "failText": "对不起，这次没有竞拍中WL Box,您可以等待下一次的活动.",
     "btnText": "报价",
     "btnText2": "报价结束",
     "btnText3": "查看结果"

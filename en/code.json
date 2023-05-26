@@ -147,5 +147,13 @@
   "2002": "You had claimed or no more to claim",
   "2003": "You have no authority",
   "2004": "No NFT to claim",
-  "2005": "Lottery failed"
+  "2005": "Lottery failed",
+  "2200": "Inft data migrating",
+  "2201": "The durability is not full",
+  "2202": "The Inft is being used to read",
+  "2203": "The Inft reading reward has not been released",
+  "2204": "The Inft for sale",
+  "2205": "The Inft does not exist",
+  "2206": "Inft upgrade has been completed",
+  "2207": "Inft is being upgraded"
 }
