@@ -147,5 +147,13 @@
   "2002": "Sie haben gezogen oder keine Remis mehr",
   "2003": "Sie haben keine Berechtigung",
   "2004": "Kein NFT für Lotterie",
-  "2005": "Lotterieziehung fehlgeschlagen"
+  "2005": "Lotterieziehung fehlgeschlagen",
+  "2200": "Inft Datenmigration läuft",
+  "2201": "Inft Ausdauer nicht voll",
+  "2202": "Inft wird zum Lesen und Farmen verwendet",
+  "2203": "Belohnung für Lesen und Farmen von Inft noch nicht freigegeben",
+  "2204": "Inft wird derzeit verkauft",
+  "2205": "Inft existiert nicht",
+  "2206": "Inft Upgrade abgeschlossen",
+  "2207": "Inft wird gerade aktualisiert"
 }

@@ -147,5 +147,13 @@
   "2002": "Você empatou ou não empatou mais",
   "2003": "Você não tem permissão",
   "2004": "Sem NFT para loteria",
-  "2005": "Falha no sorteio da loteria"
+  "2005": "Falha no sorteio da loteria",
+  "2200": "Migração de dados Inft em andamento",
+  "2201": "Inft com energia insuficiente",
+  "2202": "Inft está sendo usado para leitura e mineração",
+  "2203": "A recompensa de leitura e mineração do Inft ainda não foi liberada",
+  "2204": "Inft está atualmente em venda",
+  "2205": "Inft não existe",
+  "2206": "Inft concluiu a atualização",
+  "2207": "Inft está em processo de atualização"
 }

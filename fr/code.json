@@ -147,5 +147,13 @@
   "2002": "Vous avez tiré ou plus de tirages",
   "2003": "Vous n'avez pas la permission",
   "2004": "Pas de NFT pour la loterie",
-  "2005": "Échec du tirage au sort"
+  "2005": "Échec du tirage au sort",
+  "2200": "Migration des données Inft en cours",
+  "2201": "Inft n'a pas sa jauge de vitalité pleine",
+  "2202": "Inft est utilisé pour la lecture et le farming",
+  "2203": "La récompense de lecture et farming d'Inft n'a pas encore été libérée",
+  "2204": "Inft est en cours de vente",
+  "2205": "Inft n'existe pas",
+  "2206": "La mise à niveau d'Inft est terminée",
+  "2207": "Inft est en cours de mise à niveau"
 }
