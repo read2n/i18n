@@ -131,6 +131,7 @@
   "exclusiveBook": "独占本",
   "experienceCardPromptSeg1": "",
   "experienceCardPromptSeg2": "日間の体験カードを受け取る",
+  "failed": "失敗 しました",
   "fatPayDisclaimer1": "取引にFaTPayを選択した場合、読んで理解したことを確認します",
   "fatPayDisclaimer2": "(Read2N免責事項)",
   "fatPayDisclaimerContent": "FaTPay は、第三者が独自に運営する法定通貨およびデジタル通貨取引プラットフォームであり、Read2N は、このサービスの使用によって被ったいかなる損失または損害についても責任を負わないものとします。",
