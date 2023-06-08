@@ -479,6 +479,7 @@
   "toastFailedDownloadApk": "ダウンロードに失敗しました。 手動でダウンロードしてみてください。 URL がクリップボードにコピーされました",
   "toastFailedGetBalance": "残高を取得できませんでした",
   "toastFreeR2NExceedsMaxEnergy": "無料の読書は最大エネルギーを超えています。タスクを終了してください",
+  "toastFreeReadEnergyHasNotReachedMax": "現在の読み取りエネルギーが最大エネルギーに達していないため、今すぐ終了しても特典は受けられません。続行しますか?",
   "toastIncorrectAmount": "間違った金額",
   "toastIncorrectPasscode": "間違ったパスコード",
   "toastIncorrectSeedPhrase": "不適切なシード フレーズ",

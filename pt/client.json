@@ -476,6 +476,7 @@
   "toastFailedDownloadApk": "Falha no download, tente fazer o download manualmente. O endereço de download foi copiado para a área de transferência",
   "toastFailedGetBalance": "Falha ao obter saldo",
   "toastFreeR2NExceedsMaxEnergy": "A leitura livre excede a energia máxima, por favor, termine a tarefa",
+  "toastFreeReadEnergyHasNotReachedMax": "A energia de leitura atual não atingiu a energia máxima e você não obterá nenhum benefício se a encerrar agora. Deseja continuar?",
   "toastIncorrectAmount": "quantidade errada",
   "toastIncorrectPasscode": "senha incorreta",
   "toastIncorrectSeedPhrase": "erro mnemônico",

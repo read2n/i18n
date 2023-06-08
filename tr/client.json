@@ -476,6 +476,7 @@
   "toastFailedDownloadApk": "İndirme başarısız, lütfen manuel olarak indirmeyi deneyin. İndirme adresi panonuza kopyalandı.",
   "toastFailedGetBalance": "Denge alınamadı",
   "toastFreeR2NExceedsMaxEnergy": "Ücretsiz okuma maksimum enerjiyi aşıyor, lütfen görevi sonlandırın",
+  "toastFreeReadEnergyHasNotReachedMax": "Mevcut okuma enerjisi maksimum enerjiye ulaşmadı ve şimdi sonlandırırsanız herhangi bir fayda görmeyeceksiniz. Devam etmek istiyor musunuz?",
   "toastIncorrectAmount": "yanlış miktar",
   "toastIncorrectPasscode": "yanlış şifre",
   "toastIncorrectSeedPhrase": "anımsatıcı hata",

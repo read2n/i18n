@@ -476,6 +476,7 @@
   "toastFailedDownloadApk": "Pengunduhan gagal, coba unduh secara manual. Alamat pengunduhan telah disalin ke clipboard Anda",
   "toastFailedGetBalance": "Gagal mendapatkan keseimbangan",
   "toastFreeR2NExceedsMaxEnergy": "Bacaan gratis melebihi energi maksimum, harap akhiri tugas",
+  "toastFreeReadEnergyHasNotReachedMax": "Energi pembacaan saat ini belum mencapai energi maksimum, dan Anda tidak akan mendapatkan keuntungan apa pun jika Anda menghentikannya sekarang. Apakah Anda ingin melanjutkan?",
   "toastIncorrectAmount": "salah jumlah",
   "toastIncorrectPasscode": "kata sandi salah",
   "toastIncorrectSeedPhrase": "kesalahan mnemonik",

@@ -476,6 +476,7 @@
   "toastFailedDownloadApk": "Download fehlgeschlagen, bitte versuchen Sie manuell herunterzuladen. Die Download-Adresse wurde in Ihre Zwischenablage kopiert",
   "toastFailedGetBalance": "Fehler beim Abrufen des Gleichgewichts",
   "toastFreeR2NExceedsMaxEnergy": "Das freie Lesen überschreitet die maximale Energie. Bitte beenden Sie die Aufgabe",
+  "toastFreeReadEnergyHasNotReachedMax": "Die aktuelle Leseenergie hat nicht die maximale Energie erreicht und Sie erhalten keine Vorteile, wenn Sie sie jetzt beenden. Möchten Sie fortfahren?",
   "toastIncorrectAmount": "falscher Betrag",
   "toastIncorrectPasscode": "falsches Passwort",
   "toastIncorrectSeedPhrase": "Gedächtnisfehler",

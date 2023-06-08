@@ -476,6 +476,7 @@
   "toastFailedDownloadApk": "Tải xuống không thành công, vui lòng thử tải xuống theo cách thủ công. Địa chỉ tải xuống đã được sao chép vào khay nhớ tạm của bạn",
   "toastFailedGetBalance": "Không lấy được số dư",
   "toastFreeR2NExceedsMaxEnergy": "Đọc miễn phí vượt quá năng lượng tối đa, xin vui lòng kết thúc nhiệm vụ",
+  "toastFreeReadEnergyHasNotReachedMax": "Năng lượng đọc hiện tại vẫn chưa đạt đến năng lượng tối đa, và bạn sẽ không nhận được bất kỳ lợi ích nào nếu bạn chấm dứt nó ngay bây giờ, bạn có muốn tiếp tục không?",
   "toastIncorrectAmount": "số tiền sai",
   "toastIncorrectPasscode": "sai mật khẩu",
   "toastIncorrectSeedPhrase": "lỗi ghi nhớ",

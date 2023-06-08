@@ -479,6 +479,7 @@
   "toastFailedDownloadApk": "Download failed. Please try to download it manually. The url has been copied to your clipboard",
   "toastFailedGetBalance": "Failed to get Balance",
   "toastFreeR2NExceedsMaxEnergy": "Free reading exceeds the maximum energy, please end the task",
+  "toastFreeReadEnergyHasNotReachedMax": "The current reading energy has not reached the maximum energy, and you will not get any benefits if you terminate it now. Do you want to continue?",
   "toastIncorrectAmount": "Incorrect amount",
   "toastIncorrectPasscode": "Incorrect Passcode",
   "toastIncorrectSeedPhrase": "Incorrect seed phrase",

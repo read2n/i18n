@@ -476,6 +476,7 @@
   "toastFailedDownloadApk": "Échec du téléchargement, veuillez essayer de télécharger manuellement. L'adresse de téléchargement a été copiée dans votre presse-papiers",
   "toastFailedGetBalance": "Impossible d'obtenir le solde",
   "toastFreeR2NExceedsMaxEnergy": "La lecture libre dépasse l'énergie maximale, veuillez terminer la tâche",
+  "toastFreeReadEnergyHasNotReachedMax": "L'énergie de lecture actuelle n'a pas atteint l'énergie maximale et vous n'obtiendrez aucun avantage si vous l'interrompez maintenant. Voulez-vous continuer ?",
   "toastIncorrectAmount": "Mauvais montant",
   "toastIncorrectPasscode": "mauvais mot de passe",
   "toastIncorrectSeedPhrase": "erreur mnémotechnique",

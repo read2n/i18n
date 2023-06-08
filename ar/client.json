@@ -476,6 +476,7 @@
   "toastFailedDownloadApk": "فشل التنزيل ، يرجى محاولة التنزيل يدويًا. تم نسخ عنوان التنزيل إلى الحافظة الخاصة بك",
   "toastFailedGetBalance": "فشل في الحصول على التوازن",
   "toastFreeR2NExceedsMaxEnergy": "القراءة المجانية تتجاوز الطاقة القصوى ، يرجى إنهاء المهمة",
+  "toastFreeReadEnergyHasNotReachedMax": "طاقة القراءة الحالية لم تصل إلى الطاقة القصوى ، ولن تحصل على أي فوائد إذا قمت بإنهائها الآن ، هل تريد الاستمرار؟",
   "toastIncorrectAmount": "كمية خاطئة",
   "toastIncorrectPasscode": "كلمة مرور خاطئة",
   "toastIncorrectSeedPhrase": "خطأ ذاكري",

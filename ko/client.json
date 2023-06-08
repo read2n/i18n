@@ -479,6 +479,7 @@
   "toastFailedDownloadApk": "다운로드에 실패했습니다. 수동으로 다운로드해 보십시오. 다운로드 주소가 클립보드에 복사되었습니다.",
   "toastFailedGetBalance": "잔액을 가져오지 못했습니다",
   "toastFreeR2NExceedsMaxEnergy": "자유 독서가 최대 에너지를 초과했습니다. 작업을 종료하세요.",
+  "toastFreeReadEnergyHasNotReachedMax": "현재 독서 에너지가 최대 에너지에 도달하지 않았으며 지금 종료하면 아무런 혜택이 없습니다. 계속하시겠습니까?",
   "toastIncorrectAmount": "금액 오류",
   "toastIncorrectPasscode": "잘못된 비밀번호",
   "toastIncorrectSeedPhrase": "니모닉 오류",

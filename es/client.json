@@ -476,6 +476,7 @@
   "toastFailedDownloadApk": "La descarga falló, intente descargarla manualmente. La dirección de descarga se ha copiado en su portapapeles.",
   "toastFailedGetBalance": "No se pudo obtener el saldo",
   "toastFreeR2NExceedsMaxEnergy": "La lectura libre excede la energía máxima, finalice la tarea",
+  "toastFreeReadEnergyHasNotReachedMax": "La energía de lectura actual no ha alcanzado la energía máxima y no obtendrá ningún beneficio si la cancela ahora. ¿Desea continuar?",
   "toastIncorrectAmount": "cantidad incorrecta",
   "toastIncorrectPasscode": "contraseña incorrecta",
   "toastIncorrectSeedPhrase": "error mnemotécnico",

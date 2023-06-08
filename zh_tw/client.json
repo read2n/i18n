@@ -479,6 +479,7 @@
   "toastFailedDownloadApk": "下載失敗，請嘗試手動下載. 下載地址已復製到您的剪切板",
   "toastFailedGetBalance": "獲取餘額失敗",
   "toastFreeR2NExceedsMaxEnergy": "免費閱讀超過最大能量,請結束任務",
+  "toastFreeReadEnergyHasNotReachedMax": "當前閱讀能量未達到最大能量，現在終止將無法獲得任何收益，是否繼續？",
   "toastIncorrectAmount": "金額錯誤",
   "toastIncorrectPasscode": "密碼錯誤",
   "toastIncorrectSeedPhrase": "助記詞錯誤",

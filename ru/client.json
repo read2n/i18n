@@ -479,6 +479,7 @@
   "toastFailedDownloadApk": "Ошибка загрузки. Попробуйте загрузить вручную. URL-адрес скопирован в буфер обмена",
   "toastFailedGetBalance": "Не удалось получить баланс",
   "toastFreeR2NExceedsMaxEnergy": "Свободное чтение превышает максимальную энергию, пожалуйста, завершите задание",
+  "toastFreeReadEnergyHasNotReachedMax": "Текущая энергия чтения не достигла максимальной энергии, и вы не получите никаких преимуществ, если прекратите ее сейчас. Хотите продолжить?",
   "toastIncorrectAmount": "Неверная сумма",
   "toastIncorrectPasscode": "Неверный пароль",
   "toastIncorrectSeedPhrase": "Неверная исходная фраза",
