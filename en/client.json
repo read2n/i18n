@@ -171,6 +171,8 @@
   "hintBeforeFreeR2N": "There may be income fluctuations, and the income of the proxy reading is subject to the final settlement.",
   "hintBeforeFreeR2N2": "There are currently #{x}# people who are reading the order, are you sure to continue reading the order?",
   "hintDifferentWalletAddress": "It may be due to the replacement of the device. The wallet bound on your device is different from the wallet bound to the platform. Please re-bind the wallet",
+  "hintEditFreeR2NEnergyMayChange": "Sorry, your energy total may change, and reading orders cannot be issued",
+  "hintEditFreeR2NTimeNotEnough": "Sorry, you cannot issue a reading order within 3 hours before the next energy recovery time",
   "hintEnterPrice": "Please enter the price",
   "hintFreeR2NProfit": "The reading income is 5% of the total RCT of the order",
   "hintInputNickname": "Please input nickname",

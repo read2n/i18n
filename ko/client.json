@@ -171,6 +171,8 @@
   "hintBeforeFreeR2N": "소득 변동이 있을 수 있으며, 대리수입 소득은 최종 정산 대상입니다.",
   "hintBeforeFreeR2N2": "현재 #{x}#명이 주문을 읽고 있습니다. 주문을 계속 읽으시겠습니까?",
   "hintDifferentWalletAddress": "기기 변경 때문에 기기에 바인딩된 지갑과 플랫폼에 바인딩된 지갑이 다릅니다. 지갑을 다시 바인딩하세요.",
+  "hintEditFreeR2NEnergyMayChange": "죄송합니다. 에너지 총량이 변경될 수 있으며 읽기 명령을 내릴 수 없습니다.",
+  "hintEditFreeR2NTimeNotEnough": "죄송합니다. 다음 기력 회복 시간 3시간 전까지는 독서 주문을 할 수 없습니다.",
   "hintEnterPrice": "가격을 입력하세요",
   "hintFreeR2NProfit": "독서 수입은 주문의 총 RCT의 5%입니다.",
   "hintInputNickname": "닉네임을 입력하세요",

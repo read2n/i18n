@@ -169,6 +169,8 @@
   "hintBeforeFreeR2N": "Mungkin ada fluktuasi pendapatan, dan pendapatan pembacaan proksi tunduk pada penyelesaian akhir.",
   "hintBeforeFreeR2N2": "Saat ini ada #{x}# orang yang sedang membaca pesanan, apakah Anda yakin akan melanjutkan membaca pesanan?",
   "hintDifferentWalletAddress": "Ini mungkin karena penggantian perangkat. Dompet yang terikat pada perangkat Anda berbeda dari dompet yang diikat ke platform. Harap ikat ulang dompet",
+  "hintEditFreeR2NEnergyMayChange": "Maaf, total energi Anda dapat berubah, dan perintah membaca tidak dapat dikeluarkan",
+  "hintEditFreeR2NTimeNotEnough": "Maaf, Anda tidak dapat mengeluarkan perintah baca dalam waktu 3 jam sebelum waktu pemulihan energi berikutnya",
   "hintEnterPrice": "Masukkan harga",
   "hintFreeR2NProfit": "Penghasilan membaca adalah 5% dari total RCT pesanan",
   "hintInputNickname": "Masukkan nama panggilan",

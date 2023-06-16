@@ -171,6 +171,8 @@
   "hintBeforeFreeR2N": "可能会有收益波动，代读收益以最后结算为准。",
   "hintBeforeFreeR2N2": "当前已有#{x}#人正在代读，是否确定继续代读该订单？",
   "hintDifferentWalletAddress": "可能是由于更换设备，您此设备上绑定的钱包与平台绑定钱包不同，请重新绑定钱包",
+  "hintEditFreeR2NEnergyMayChange": "抱歉，您的能量总额可能会发生变化，无法发布代读订单",
+  "hintEditFreeR2NTimeNotEnough": "抱歉，您距离下次能量恢复时间不足3小时无法发布代读订单",
   "hintEnterPrice": "请输入价格",
   "hintFreeR2NProfit": "代读收益为订单总RCT的5%",
   "hintInputNickname": "请输入昵称",

@@ -171,6 +171,8 @@
   "hintBeforeFreeR2N": "収入の変動があり、代読収入は最終精算の対象となります。",
   "hintBeforeFreeR2N2": "現在 #{x}# 人が注文を読んでいます。注文を読み続けてもよろしいですか?",
   "hintDifferentWalletAddress": "デバイスの交換が原因である可能性があります.デバイスにバインドされているウォレットは、プラットフォームにバインドされているウォレットとは異なります.ウォレットを再バインドしてください.",
+  "hintEditFreeR2NEnergyMayChange": "申し訳ありませんが、エネルギーの合計は変更される可能性があるため、読み取り命令を発行できません。",
+  "hintEditFreeR2NTimeNotEnough": "申し訳ございませんが、次のエネルギー回復時間までの 3 時間以内に読み取り命令を発行することはできません。",
   "hintEnterPrice": "価格を入力してください",
   "hintFreeR2NProfit": "読書収入は注文の合計 RCT の 5% です",
   "hintInputNickname": "ニックネームを入力してください",

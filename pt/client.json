@@ -169,6 +169,8 @@
   "hintBeforeFreeR2N": "Pode haver oscilações de receita, sendo que a receita da leitura da procuração está sujeita à liquidação final.",
   "hintBeforeFreeR2N2": "No momento, há #{x}# pessoas lendo o pedido. Tem certeza de que deseja continuar lendo o pedido?",
   "hintDifferentWalletAddress": "Pode ser devido à substituição do dispositivo. A carteira vinculada ao seu dispositivo é diferente da carteira vinculada à plataforma. Vincule novamente a carteira",
+  "hintEditFreeR2NEnergyMayChange": "Desculpe, seu total de energia pode mudar e as ordens de leitura não podem ser emitidas",
+  "hintEditFreeR2NTimeNotEnough": "Desculpe, você não pode emitir uma ordem de leitura dentro de 3 horas antes do próximo tempo de recuperação de energia",
   "hintEnterPrice": "Insira um preço",
   "hintFreeR2NProfit": "A receita de leitura é de 5% do RCT total do pedido",
   "hintInputNickname": "Insira um apelido",
