@@ -181,6 +181,7 @@
   "hintInputPassword": "비밀번호를 입력하세요",
   "hintPool": "추가 유동성 풀 테스트, 현재 테스팅 단계, 총 테스트 보상은 2000wcm, 테스트 기간 동안 wcm 인센티브는 추가 수량에 따라 분배되며, 테스트 보상 분배 시간은 2023-06-30 20:00 ( UTC+8)",
   "hintRecoverEnergy": "다음 에너지 회수 노드의 회수 가능한 에너지가 증가하고 그 차이는 자동으로 추가됩니다.",
+  "hintRemelt": "Mint {itm}이 현재 bNFT를 녹이고 새로운 {itm}을(를) 받게 됩니다.",
   "hintRepairResilienceLoss": "에어지 손실은 RCT 수입에 영향을 미칠 것입니다. 빠른 시간에 해결하십시오.",
   "hintRepairStrength": "에어지 가치는 귀하의 RCM 수입에 영향을 미칠 것입니다.빠른 시간에  수정하십시오.",
   "hintResurrectionUpgradeCover": "실패 후 책 표지를 회수하여 다시 민팅할 수 있습니다",

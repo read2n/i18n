@@ -179,6 +179,7 @@
   "hintInputPassword": "Bitte Passwort eingeben",
   "hintPool": "Liquiditätspooltest hinzugefügt, derzeit in der Testphase, die gesamte Testbelohnung beträgt 2000 WCM, während des Testzeitraums werden WCM-Anreize entsprechend der hinzugefügten Menge verteilt und die Testbelohnungsverteilungszeit beträgt 2023-06-30 20:00 ( UTC+8)",
   "hintRecoverEnergy": "Die rückgewinnbare Energie des nächsten Energierückgewinnungsknotens erhöht sich und die Differenz wird automatisch addiert",
+  "hintRemelt": "Mint {itm} schmilzt Ihr aktuelles bNFT und Sie erhalten ein neues {itm}",
   "hintRepairResilienceLoss": "Der Ausdauerverlust wirkt sich auf Ihr RCT-Einkommen aus. Bitte beheben Sie dies rechtzeitig",
   "hintRepairStrength": "Ausdauer wirkt sich auf Ihr RCM-Einkommen aus, bitte beheben Sie dies rechtzeitig",
   "hintResurrectionUpgradeCover": "Nach dem Scheitern können Sie den Buchdeckel retten und erneut gießen",

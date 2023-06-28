@@ -179,6 +179,7 @@
   "hintInputPassword": "por favor digite a senha",
   "hintPool": "Adicionado teste de pool de liquidez, atualmente em fase de teste, a recompensa total do teste é 2000 wcm, durante o período de teste, os incentivos wcm serão distribuídos de acordo com a quantidade adicionada e o tempo de distribuição da recompensa do teste será 2023-06-30 20:00 ( utc+8)",
   "hintRecoverEnergy": "A energia recuperável do próximo nó de recuperação de energia aumentará e a diferença será adicionada automaticamente",
+  "hintRemelt": "Mint {itm} derreterá seu bNFT atual e você receberá um novo {itm}",
   "hintRepairResilienceLoss": "A perda de resistência afetará sua renda RCT, corrija-a a tempo",
   "hintRepairStrength": "A resistência afetará sua renda RCM, por favor, corrija a tempo",
   "hintResurrectionUpgradeCover": "Após a falha, você pode salvar a capa do livro e lançá-la novamente",

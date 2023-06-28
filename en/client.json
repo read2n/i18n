@@ -181,6 +181,7 @@
   "hintInputPassword": "please input password",
   "hintPool": "Testing phase for the liquidity pool, the total reward will be 2000WCM. The quantity of WCM rewards during the testing period is related to the amount of liquidity added. The testing rewards will be distributed on June 30, 2023, at 20:00 (UTC+8)",
   "hintRecoverEnergy": "The recoverable energy of the next energy recovery node will increase, and the difference will be added automatically",
+  "hintRemelt": "Minting a {itm} will burn your current bNFT, and you will receive a new {itm}",
   "hintRepairResilienceLoss": "Strength depletion may affect your RCT earnings. It is recommended to repair promptly.",
   "hintRepairStrength": "Strength will affect your reading income, remember to repair it in time",
   "hintResurrectionUpgradeCover": "After failure, you can salvage the book cover and upgrade it again",

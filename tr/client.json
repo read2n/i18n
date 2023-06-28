@@ -179,6 +179,7 @@
   "hintInputPassword": "lütfen şifre giriniz",
   "hintPool": "Eklenen likidite havuzu testi, şu anda test aşamasında, toplam test ödülü 2000wcm, test süresi boyunca wcm teşvikleri eklenen miktara göre dağıtılacak ve test ödülü dağıtım saati 2023-06-30 20:00 ( utc+8)",
   "hintRecoverEnergy": "Bir sonraki enerji geri kazanım düğümünün geri kazanılabilir enerjisi artacak ve fark otomatik olarak eklenecektir.",
+  "hintRemelt": "Nane {itm}, mevcut bNFT'nizi eritecek ve yeni bir {itm} alacaksınız",
   "hintRepairResilienceLoss": "Dayanıklılık kaybı, RCT gelirinizi etkileyecektir, lütfen zamanında düzeltin",
   "hintRepairStrength": "Dayanıklılık, RCM gelirinizi etkileyecektir, lütfen zamanında düzeltin",
   "hintResurrectionUpgradeCover": "Başarısızlıktan sonra, kitap kapağını kurtarabilir ve tekrar yayınlayabilirsiniz.",

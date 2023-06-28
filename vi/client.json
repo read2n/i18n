@@ -179,6 +179,7 @@
   "hintInputPassword": "xin vui lòng nhập mật khẩu",
   "hintPool": "Đã thêm thử nghiệm nhóm thanh khoản, hiện đang trong giai đoạn thử nghiệm, tổng phần thưởng thử nghiệm là 2000wcm, trong thời gian thử nghiệm, các ưu đãi wcm sẽ được phân phối theo số lượng được thêm vào và thời gian phân phối phần thưởng thử nghiệm sẽ là 20:00 ngày 30/06/2023 ( utc+8)",
   "hintRecoverEnergy": "Năng lượng có thể phục hồi của nút phục hồi năng lượng tiếp theo sẽ tăng lên và phần chênh lệch sẽ được tự động thêm vào",
+  "hintRemelt": "Mint {itm} sẽ nấu chảy bNFT hiện tại của bạn và bạn sẽ nhận được một {itm} mới",
   "hintRepairResilienceLoss": "Mất sức chịu đựng sẽ ảnh hưởng đến thu nhập RCT của bạn, vui lòng khắc phục kịp thời",
   "hintRepairStrength": "Stamina sẽ ảnh hưởng đến thu nhập RCM của bạn, hãy khắc phục kịp thời",
   "hintResurrectionUpgradeCover": "Sau khi hỏng, bạn có thể vớt bìa sách và đúc lại",

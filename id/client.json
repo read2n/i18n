@@ -179,6 +179,7 @@
   "hintInputPassword": "silakan masukkan kata sandi",
   "hintPool": "Menambahkan tes kolam likuiditas, saat ini dalam tahap pengujian, total hadiah tes adalah 2000wcm, selama periode tes insentif wcm akan didistribusikan sesuai dengan jumlah yang ditambahkan, dan waktu distribusi hadiah tes akan menjadi 30-06-2023 20:00 ( utc+8)",
   "hintRecoverEnergy": "Energi yang dapat dipulihkan dari node pemulihan energi berikutnya akan meningkat, dan selisihnya akan ditambahkan secara otomatis",
+  "hintRemelt": "Mint {itm} akan mencairkan bNFT Anda saat ini dan Anda akan mendapatkan {itm} baru",
   "hintRepairResilienceLoss": "Kehilangan stamina akan memengaruhi pendapatan RCT Anda, harap perbaiki tepat waktu",
   "hintRepairStrength": "Stamina akan memengaruhi pendapatan RCM Anda, harap perbaiki tepat waktu",
   "hintResurrectionUpgradeCover": "Setelah gagal, Anda dapat menyelamatkan sampul buku dan melemparkannya lagi",

@@ -181,6 +181,7 @@
   "hintInputPassword": "請輸入密碼",
   "hintPool": "添加流動池測試，當前為測試階段，測試總獎勵為2000wcm ，測試期wcm激勵根據添加數量發放，測試獎勵發放時間為2023-06-30 20:00（utc+8）",
   "hintRecoverEnergy": "下一個能量恢復節點可恢復的能量變多，將自動把這個差值加上",
+  "hintRemelt": "Mint {itm}則會回爐您當前的bNFT，您將獲得一個新的{itm}",
   "hintRepairResilienceLoss": "體力損耗會影響您的RCT收益，請及時修復",
   "hintRepairStrength": "體力值會影響您的RCM收益，請及時修復",
   "hintResurrectionUpgradeCover": "失敗後可搶救書皮，再次鑄造",
