@@ -184,6 +184,7 @@
   "hint": "ipucu",
   "hintBeforeFreeR2N": "Gelir dalgalanmaları olabilir ve vekaletname okuma geliri nihai uzlaşmaya tabidir.",
   "hintBeforeFreeR2N2": "Şu anda siparişi okuyan #{x}# kişi var, siparişi okumaya devam etmek istediğinizden emin misiniz?",
+  "hintCreateWantToBuy": "Lütfen aksesuarların özelliklerini girin, ideal fiyatınızı girin ve bir satın alma talebi başlatın",
   "hintDifferentWalletAddress": "Cihazın değiştirilmesinden kaynaklanabilir. Cihazınıza bağlı cüzdan, platforma bağlı cüzdandan farklıdır. Lütfen cüzdanı yeniden bağlayın.",
   "hintEditFreeR2NEnergyMayChange": "Üzgünüz, toplam enerjiniz değişebilir ve okuma emri verilemez",
   "hintEditFreeR2NTimeNotEnough": "Üzgünüz, bir sonraki enerji geri kazanım saatinden önceki 3 saat içinde okuma emri veremezsiniz.",

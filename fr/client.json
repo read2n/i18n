@@ -184,6 +184,7 @@
   "hint": "indice",
   "hintBeforeFreeR2N": "Il peut y avoir des fluctuations de revenus et le revenu de la lecture par procuration est soumis au règlement final.",
   "hintBeforeFreeR2N2": "Il y a actuellement #{x}# personnes qui lisent la commande, êtes-vous sûr de continuer à lire la commande ?",
+  "hintCreateWantToBuy": "Veuillez entrer les spécifications des accessoires, remplir votre prix idéal et initier une demande d'achat",
   "hintDifferentWalletAddress": "Cela peut être dû au remplacement de l'appareil. Le portefeuille lié à votre appareil est différent du portefeuille lié à la plate-forme. Veuillez reconnecter le portefeuille",
   "hintEditFreeR2NEnergyMayChange": "Désolé, votre total d'énergie peut changer et les ordres de lecture ne peuvent pas être émis",
   "hintEditFreeR2NTimeNotEnough": "Désolé, vous ne pouvez pas émettre d'ordre de lecture dans les 3 heures avant la prochaine heure de récupération d'énergie",

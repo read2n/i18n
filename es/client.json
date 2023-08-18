@@ -184,6 +184,7 @@
   "hint": "pista",
   "hintBeforeFreeR2N": "Puede haber fluctuaciones de ingresos, y los ingresos de la lectura de poder están sujetos a la liquidación final.",
   "hintBeforeFreeR2N2": "Actualmente hay #{x}# personas que están leyendo el pedido, ¿está seguro de continuar leyendo el pedido?",
+  "hintCreateWantToBuy": "Ingrese las especificaciones de los accesorios, complete su precio ideal e inicie una solicitud de compra",
   "hintDifferentWalletAddress": "Puede deberse al reemplazo del dispositivo. La billetera vinculada a su dispositivo es diferente de la billetera vinculada a la plataforma. Vuelva a vincular la billetera.",
   "hintEditFreeR2NEnergyMayChange": "Lo sentimos, su energía total puede cambiar y no se pueden emitir órdenes de lectura",
   "hintEditFreeR2NTimeNotEnough": "Lo sentimos, no puede emitir una orden de lectura dentro de las 3 horas antes del próximo tiempo de recuperación de energía",

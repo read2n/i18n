@@ -184,6 +184,7 @@
   "hint": "Hinweis",
   "hintBeforeFreeR2N": "Es kann zu Einkommensschwankungen kommen und die Einnahmen aus der Proxy-Lesung unterliegen der endgültigen Abrechnung.",
   "hintBeforeFreeR2N2": "Derzeit lesen #{x}# Personen die Bestellung. Sind Sie sicher, dass Sie die Bestellung weiter lesen?",
+  "hintCreateWantToBuy": "Bitte geben Sie die Spezifikationen der Requisiten ein, geben Sie Ihren Wunschpreis ein und starten Sie eine Kaufanfrage",
   "hintDifferentWalletAddress": "Dies kann daran liegen, dass das Gerät ausgetauscht wurde. Die auf Ihrem Gerät gebundene Brieftasche unterscheidet sich von der an die Plattform gebundenen Brieftasche. Bitte binden Sie die Brieftasche erneut",
   "hintEditFreeR2NEnergyMayChange": "Leider kann sich Ihr Gesamtenergieverbrauch ändern und Leseaufträge können nicht erteilt werden",
   "hintEditFreeR2NTimeNotEnough": "Leider können Sie innerhalb von 3 Stunden vor der nächsten Energierückgewinnung keinen Leseauftrag erteilen",

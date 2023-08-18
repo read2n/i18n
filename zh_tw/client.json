@@ -186,6 +186,7 @@
   "hint": "提示",
   "hintBeforeFreeR2N": "可能會有收益波動，代讀收益以最後結算為準。",
   "hintBeforeFreeR2N2": "當前已有#{x}#人正在代讀，是否確定繼續代讀該訂單？",
+  "hintCreateWantToBuy": "請輸入道具規格，並填寫您理想的價格並發起求購",
   "hintDifferentWalletAddress": "可能是由於更換設備，您此設備上綁定的錢包與平臺綁定錢包不同，請重新綁定錢包",
   "hintEditFreeR2NEnergyMayChange": "抱歉，您的能量總額可能會發生變化，無法發布代讀訂單",
   "hintEditFreeR2NTimeNotEnough": "抱歉，您距離下次能量恢復時間不足3小時無法發布代讀訂單",
