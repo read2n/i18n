@@ -119,7 +119,7 @@
     "inviteBtnText": "邀請好友",
     "saveText": "保存圖片",
     "copyText": "復製鏈接",
-    "qrText": "掃碼下載Read2N,快來幫忙砍一刀",
+    "qrText": "掃碼下載Metale,快來幫忙砍一刀",
     "stepsTitle": "活動步驟",
     "steps1": "選擇參與“砍一刀”活動的寶箱",
     "steps2": "邀請新用戶註冊並完成“砍一刀”，獲得RCM優惠",
@@ -241,7 +241,7 @@
   "wcmWlbox": {
     "title": "WCM+RCM",
     "tip": "兌換 WLBox",
-    "ruleContent": "用戶可使用88wcm+388rcm兌換WL-Box。\r\n WL-Box限量100個，先到先得，換完即止。同一用戶可以多次兌換。\r\n活動持續時間以Read2N官方通知為準。",
+    "ruleContent": "用戶可使用88wcm+388rcm兌換WL-Box。\r\n WL-Box限量100個，先到先得，換完即止。同一用戶可以多次兌換。\r\n活動持續時間以Metale官方通知為準。",
     "wcmText": "活動剩余次數:",
     "wcmDesc": "WCM: ",
     "rcmDesc": "RCM: ",
