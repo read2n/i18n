@@ -185,7 +185,7 @@
   "hasRead": "已读",
   "help": "帮助",
   "hideZeroBalance": "隐藏0余额",
-  "highestPrice": "最高价格",
+  "highestPrice": "最高价",
   "hint": "提示",
   "hintBeforeFreeR2N": "可能会有收益波动，代读收益以最后结算为准。",
   "hintBeforeFreeR2N2": "当前已有#{x}#人正在代读，是否确定继续代读该订单？",
