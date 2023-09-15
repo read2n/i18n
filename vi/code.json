@@ -107,7 +107,7 @@
   "1504": "Không thể mua sản phẩm",
   "1505": "Bạn đã có sản phẩm này",
   "1507": "Sản phẩm đã lên kệ",
-  "1508": "Hãy tháo bìa sách ra khỏi khe NFT trước",
+  "1508": "Các đạo cụ đang được sử dụng",
   "1509": "Bìa sách bán",
   "1510": "Bìa sách đã được phù phép",
   "1511": "Tổng hợp bìa sách không thành công",
@@ -140,6 +140,14 @@
   "1702": "Không đủ năng lượng",
   "1703": "Yêu cầu quá thường xuyên, vui lòng đợi 30 giây",
   "1704": "Sức chịu đựng của tài khoản không đủ",
+  "1705": "Bạn không thể đọc đơn hàng của mình",
+  "1706": "Thời gian đọc không đủ",
+  "1707": "RCT đọc không đủ",
+  "1708": "Năng lượng đơn hàng đọc không đủ",
+  "1709": "Vui lòng tiêu thụ năng lượng của bạn trước",
+  "1710": "Chỉ có thể có một đơn hàng đọc",
+  "1711": "Bạn đã đạt đến giới hạn năng lượng tối đa cho ngày hôm nay",
+  "1712": "Cùng một đơn hàng đọc chỉ có thể đọc một lần trong một ngày",
   "1800": "Dữ liệu không tồn tại",
   "1801": "Vui lòng thử lại sau",
   "2000": "Sự kiện không tồn tại",
@@ -155,5 +163,6 @@
   "2204": "Inft hiện đang được bán",
   "2205": "Inft không tồn tại",
   "2206": "Inft đã hoàn thành việc nâng cấp",
-  "2207": "Inft đang được nâng cấp"
+  "2207": "Inft đang được nâng cấp",
+  "2300": "Cơ hội rút RCM không đủ"
 }

@@ -107,7 +107,7 @@
   "1504": "Produkt konnte nicht gekauft werden",
   "1505": "Sie haben dieses Produkt bereits",
   "1507": "Das Produkt ist im Regal",
-  "1508": "Bitte entfernen Sie zuerst den Buchdeckel aus dem NFT-Steckplatz",
+  "1508": "Requisiten werden verwendet",
   "1509": "Buchcover zu verkaufen",
   "1510": "Der Buchdeckel wurde verzaubert",
   "1511": "Synthese des Buchumschlags fehlgeschlagen",
@@ -140,6 +140,14 @@
   "1702": "Unzureichende Energie",
   "1703": "Die Anfrage ist zu häufig, bitte warten Sie 30 Sekunden",
   "1704": "Die Ausdauer des Kontos ist unzureichend",
+  "1705": "Du kannst deine Bestellung nicht selbst lesen",
+  "1706": "Vorlesezeit ist nicht ausreichend",
+  "1707": "Vorleser-RTC ist nicht ausreichend",
+  "1708": "Vorlesebestellungsenergie ist nicht ausreichend",
+  "1709": "Bitte verbrauche zuerst deine Energie",
+  "1710": "Es darf nur eine Vorlesebestellung geben",
+  "1711": "Du hast das tägliche Energie-Limit erreicht",
+  "1712": "Eine Vorlesebestellung kann nur einmal pro Tag gelesen werden",
   "1800": "Daten existieren nicht",
   "1801": "Bitte versuchen Sie es später noch einmal",
   "2000": "Ereignis existiert nicht",
@@ -155,5 +163,6 @@
   "2204": "Inft wird derzeit verkauft",
   "2205": "Inft existiert nicht",
   "2206": "Inft Upgrade abgeschlossen",
-  "2207": "Inft wird gerade aktualisiert"
+  "2207": "Inft wird gerade aktualisiert",
+  "2300": "RCM Umtausch - nicht genügend Gewinnchancen"
 }

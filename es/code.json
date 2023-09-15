@@ -107,7 +107,7 @@
   "1504": "Error al comprar el producto",
   "1505": "Ya tienes este producto",
   "1507": "El producto esta en el estante",
-  "1508": "Primero quite la tapa del libro de la ranura NFT",
+  "1508": "Los accesorios están en uso",
   "1509": "Portada de libro en venta",
   "1510": "La portada del libro ha sido encantada",
   "1511": "Falló la síntesis de la portada del libro",
@@ -140,6 +140,14 @@
   "1702": "Energía insuficiente",
   "1703": "La solicitud es demasiado frecuente, espere 30 segundos",
   "1704": "La resistencia de la cuenta es insuficiente",
+  "1705": "No puedes leer tu propio pedido",
+  "1706": "El tiempo de lectura es insuficiente",
+  "1707": "El RCT de lectura es insuficiente",
+  "1708": "La energía de la orden de lectura es insuficiente",
+  "1709": "Por favor, consume tu energía primero",
+  "1710": "Solo puede haber una orden de lectura",
+  "1711": "Has alcanzado el límite máximo de energía para el día",
+  "1712": "La misma orden de lectura solo se puede leer una vez al día",
   "1800": "Los datos no existen",
   "1801": "Vuelve a intentarlo más tarde",
   "2000": "Evento no existe",
@@ -155,5 +163,6 @@
   "2204": "Inft está actualmente en venta",
   "2205": "Inft no existe",
   "2206": "Inft ha completado la actualización",
-  "2207": "Inft se está actualizando actualmente"
+  "2207": "Inft se está actualizando actualmente",
+  "2300": "Insuficientes oportunidades de sorteo por RCM canjeado"
 }

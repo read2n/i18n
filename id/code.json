@@ -107,7 +107,7 @@
   "1504": "Gagal membeli produk",
   "1505": "Anda sudah memiliki produk ini",
   "1507": "Produk ada di rak",
-  "1508": "Harap lepaskan sampul buku dari slot NFT terlebih dahulu",
+  "1508": "Properti sedang digunakan",
   "1509": "Sampul buku untuk dijual",
   "1510": "Sampul buku telah disihir",
   "1511": "Sintesis sampul buku gagal",
@@ -140,6 +140,14 @@
   "1702": "Energi Tidak Cukup",
   "1703": "Permintaan terlalu sering, harap tunggu selama 30 detik",
   "1704": "Stamina akun tidak mencukupi",
+  "1705": "Anda tidak dapat membaca pesanan Anda sendiri",
+  "1706": "Waktu membaca tidak mencukupi",
+  "1707": "RCT membaca tidak mencukupi",
+  "1708": "Energi pesanan bacaan tidak mencukupi",
+  "1709": "Harap habiskan energi Anda terlebih dahulu",
+  "1710": "Hanya boleh ada satu pesanan bacaan",
+  "1711": "Anda telah mencapai batas maksimum energi untuk hari ini",
+  "1712": "Pesanan bacaan yang sama hanya dapat dibaca sekali dalam sehari",
   "1800": "Data tidak ada",
   "1801": "Silakan coba lagi nanti",
   "2000": "Acara tidak ada",
@@ -155,5 +163,6 @@
   "2204": "Inft sedang dijual",
   "2205": "Inft tidak ada",
   "2206": "Peningkatan Inft telah selesai",
-  "2207": "Inft sedang dalam proses peningkatan"
+  "2207": "Inft sedang dalam proses peningkatan",
+  "2300": "Kesempatan undian penukaran RCM tidak mencukupi"
 }
