@@ -66,6 +66,7 @@
   "cannotRecover": "Не удается восстановить",
   "category": "Классификация",
   "celebrateNewBrand": "Отпразднуйте успех обновления бренда!",
+  "change": "взлеты и падения",
   "change24H": "Изменения за 24 часа",
   "chapter": "Глава",
   "chip": "Чип",
@@ -640,5 +641,9 @@
   "wrongLetters": "Опечатка",
   "wrongTranslation": "Ошибка перевода",
   "wrongTypeset": "типографское расстройство",
+  "yesterdayRcmIncome": "Вчерашний доход RCM",
+  "yesterdayRctEnergy": "Вчера РКИ",
+  "yesterdayReadEnergy": "Энергия вчерашнего чтения",
+  "yesterdayReadingIndex": "Индекс чтения за вчерашний день",
   "youMayLike": "Вам также может понравиться"
 }

@@ -66,6 +66,7 @@
   "cannotRecover": "Cannot Recover",
   "category": "Category",
   "celebrateNewBrand": "Celebrate the success of the brand upgrade!",
+  "change": "Change",
   "change24H": "24H Change",
   "chapter": "Chapter",
   "chip": "Chip",
@@ -640,5 +641,9 @@
   "wrongLetters": "Typo",
   "wrongTranslation": "Translation error",
   "wrongTypeset": "typographical disorder",
+  "yesterdayRcmIncome": "Yesterday’s RCM earnings",
+  "yesterdayRctEnergy": "Yesterday RCT",
+  "yesterdayReadEnergy": "Yesterday’s reading energy",
+  "yesterdayReadingIndex": "Yesterday’s reading index",
   "youMayLike": "You May Also Like"
 }

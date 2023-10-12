@@ -65,6 +65,7 @@
   "cannotRecover": "Tidak Dapat Memulihkan",
   "category": "Klasifikasi",
   "celebrateNewBrand": "Rayakan keberhasilan peningkatan merek!",
+  "change": "Pasang surut",
   "change24H": "24 jam pasang surut",
   "chapter": "bab",
   "chip": "fragmen",
@@ -637,5 +638,9 @@
   "wrongLetters": "Salah ketik",
   "wrongTranslation": "Kesalahan terjemahan",
   "wrongTypeset": "gangguan tipografi",
+  "yesterdayRcmIncome": "Penghasilan RCM kemarin",
+  "yesterdayRctEnergy": "Kemarin RCT",
+  "yesterdayReadEnergy": "Energi membaca kemarin",
+  "yesterdayReadingIndex": "Indeks bacaan kemarin",
   "youMayLike": "Anda mungkin juga suka"
 }

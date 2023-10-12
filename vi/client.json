@@ -65,6 +65,7 @@
   "cannotRecover": "không thể phục hồi",
   "category": "phân loại",
   "celebrateNewBrand": "Kỷ niệm sự thành công của việc nâng cấp thương hiệu!",
+  "change": "thăng trầm",
   "change24H": "Thăng trầm 24H",
   "chapter": "chương",
   "chip": "mảnh vỡ",
@@ -637,5 +638,9 @@
   "wrongLetters": "đánh máy",
   "wrongTranslation": "lỗi dịch thuật",
   "wrongTypeset": "rối loạn đánh máy",
+  "yesterdayRcmIncome": "Thu nhập RCM của ngày hôm qua",
+  "yesterdayRctEnergy": "RCT hôm qua",
+  "yesterdayReadEnergy": "Năng lượng đọc của ngày hôm qua",
+  "yesterdayReadingIndex": "Chỉ số đọc của ngày hôm qua",
   "youMayLike": "Bạn cũng có thể thích"
 }

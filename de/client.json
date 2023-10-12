@@ -65,6 +65,7 @@
   "cannotRecover": "Kann nicht wiederhergestellt werden",
   "category": "Einstufung",
   "celebrateNewBrand": "Feiern Sie den Erfolg des Markenupgrades!",
+  "change": "Höhen und Tiefen",
   "change24H": "24 Stunden Höhen und Tiefen",
   "chapter": "Kapitel",
   "chip": "Fragmente",
@@ -637,5 +638,9 @@
   "wrongLetters": "Tippfehler",
   "wrongTranslation": "Übersetzungsfehler",
   "wrongTypeset": "typografische Störung",
+  "yesterdayRcmIncome": "Die gestrigen RCM-Ergebnisse",
+  "yesterdayRctEnergy": "Gestern RCT",
+  "yesterdayReadEnergy": "Die Leseenergie von gestern",
+  "yesterdayReadingIndex": "Der Leseindex von gestern",
   "youMayLike": "Sie können auch mögen"
 }

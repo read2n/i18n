@@ -66,6 +66,7 @@
   "cannotRecover": "无法恢复",
   "category": "分类",
   "celebrateNewBrand": "庆祝品牌升级成功！",
+  "change": "涨跌",
   "change24H": "24H涨跌",
   "chapter": "章节",
   "chip": "碎片",
@@ -640,5 +641,9 @@
   "wrongLetters": "错别字",
   "wrongTranslation": "翻译错误",
   "wrongTypeset": "排版错乱",
+  "yesterdayRcmIncome": "昨日RCM收益",
+  "yesterdayRctEnergy": "昨日RCT",
+  "yesterdayReadEnergy": "昨日阅读能量",
+  "yesterdayReadingIndex": "昨日阅读指数",
   "youMayLike": "猜你喜欢"
 }

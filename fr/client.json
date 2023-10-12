@@ -65,6 +65,7 @@
   "cannotRecover": "Impossible de récupérer",
   "category": "Classification",
   "celebrateNewBrand": "Célébrez le succès de la mise à niveau de la marque !",
+  "change": "des hauts et des bas",
   "change24H": "Des hauts et des bas 24h/24",
   "chapter": "chapitre",
   "chip": "fragments",
@@ -637,5 +638,9 @@
   "wrongLetters": "Faute de frappe",
   "wrongTranslation": "Erreur de traduction",
   "wrongTypeset": "désordre typographique",
+  "yesterdayRcmIncome": "Gains RCM d'hier",
+  "yesterdayRctEnergy": "ECR d'hier",
+  "yesterdayReadEnergy": "L’énergie de lecture d’hier",
+  "yesterdayReadingIndex": "L'indice de lecture d'hier",
   "youMayLike": "Tu pourrais aussi aimer"
 }

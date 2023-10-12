@@ -65,6 +65,7 @@
   "cannotRecover": "لا يمكن الاسترداد",
   "category": "تصنيف",
   "celebrateNewBrand": "احتفل بنجاح ترقية العلامة التجارية!",
+  "change": "صعودا وهبوطا",
   "change24H": "24 ساعة صعودًا وهبوطًا",
   "chapter": "الفصل",
   "chip": "فتات",
@@ -637,5 +638,9 @@
   "wrongLetters": "خطأ مطبعي",
   "wrongTranslation": "خطأ في الترجمة",
   "wrongTypeset": "اضطراب مطبعي",
+  "yesterdayRcmIncome": "أرباح RCM يوم أمس",
+  "yesterdayRctEnergy": "تجربة عشوائية مضبوطة بالأمس",
+  "yesterdayReadEnergy": "طاقة القراءة بالأمس",
+  "yesterdayReadingIndex": "مؤشر القراءة أمس",
   "youMayLike": "ربما يعجبك أيضا"
 }

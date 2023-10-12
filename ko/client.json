@@ -66,6 +66,7 @@
   "cannotRecover": "복구할 수 없음",
   "category": "분류",
   "celebrateNewBrand": "브랜드 업그레이드 성공을 축하해주세요!",
+  "change": "기복",
   "change24H": "24시간 변화",
   "chapter": "장",
   "chip": "조각",
@@ -640,5 +641,9 @@
   "wrongLetters": "오식",
   "wrongTranslation": "번역 오류",
   "wrongTypeset": "인쇄상의 장애",
+  "yesterdayRcmIncome": "어제 RCM 수익",
+  "yesterdayRctEnergy": "어제 RCT",
+  "yesterdayReadEnergy": "어제의 독서에너지",
+  "yesterdayReadingIndex": "어제의 독서지수",
   "youMayLike": "추천"
 }

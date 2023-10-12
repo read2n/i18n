@@ -65,6 +65,7 @@
   "cannotRecover": "Não é Possível Recuperar",
   "category": "Classificação",
   "celebrateNewBrand": "Comemore o sucesso da atualização da marca!",
+  "change": "altos e baixos",
   "change24H": "24H altos e baixos",
   "chapter": "capítulo",
   "chip": "fragmentos",
@@ -637,5 +638,9 @@
   "wrongLetters": "Erro de digitação",
   "wrongTranslation": "erro de tradução",
   "wrongTypeset": "desordem tipográfica",
+  "yesterdayRcmIncome": "Ganhos RCM de ontem",
+  "yesterdayRctEnergy": "Ontem RCT",
+  "yesterdayReadEnergy": "Energia de leitura de ontem",
+  "yesterdayReadingIndex": "Índice de leitura de ontem",
   "youMayLike": "você pode gostar"
 }

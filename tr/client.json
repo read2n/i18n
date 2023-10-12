@@ -65,6 +65,7 @@
   "cannotRecover": "Kurtarılamaz",
   "category": "sınıflandırma",
   "celebrateNewBrand": "Marka yükseltme işleminin başarısını kutlayın!",
+  "change": "inişler ve çıkışlar",
   "change24H": "24 saat inişler ve çıkışlar",
   "chapter": "bölüm",
   "chip": "parça",
@@ -637,5 +638,9 @@
   "wrongLetters": "yazım hatası",
   "wrongTranslation": "Çeviri hatası",
   "wrongTypeset": "tipografik bozukluk",
+  "yesterdayRcmIncome": "Dünkü RCM kazançları",
+  "yesterdayRctEnergy": "Dün RCT",
+  "yesterdayReadEnergy": "Dünün okuma enerjisi",
+  "yesterdayReadingIndex": "Dünün okuma endeksi",
   "youMayLike": "Şunlar da hoşunuza gidebilir"
 }

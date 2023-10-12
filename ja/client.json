@@ -66,6 +66,7 @@
   "cannotRecover": "回復できません",
   "category": "分類",
   "celebrateNewBrand": "ブランドアップグレードの成功を祝いましょう！",
+  "change": "浮き沈み",
   "change24H": "24時間変更",
   "chapter": "章",
   "chip": "チップ",
@@ -640,5 +641,9 @@
   "wrongLetters": "打ち間違え",
   "wrongTranslation": "翻訳エラー",
   "wrongTypeset": "活字障害",
+  "yesterdayRcmIncome": "昨日のRCM収益",
+  "yesterdayRctEnergy": "昨日RCT",
+  "yesterdayReadEnergy": "昨日の読書エネルギー",
+  "yesterdayReadingIndex": "昨日の読書指数",
   "youMayLike": "あなたも好きかも"
 }
